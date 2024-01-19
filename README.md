@@ -1,1 +1,1 @@
-#data MINING for crm usıng python!
+# DATA MINING FOR CRM USING PYTHON!
