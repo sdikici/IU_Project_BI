@@ -1,0 +1,1001 @@
+type,company,ProductSpecifics,email,Return,Feedback
+Email,Jones Inc,Bird Fence,qchavez@example.com,This Bird Fence is a disappointment. The quality is subpar.,-1
+Email,Martin-Roberts,Chicken fence,jwallace@example.com,This Chicken fence is a disappointment. The quality is subpar.,-1
+Email,"Schwartz, Stewart and Holt",Bird Fence,katkinson@example.com,Received a damaged Bird Fence. Requesting a refund immediately.,-1
+Email,Soto PLC,Highway fence,christine66@example.com,I'm very impressed with the Highway fence and the level of service received.Thank you,1
+Email,"Cummings, Barber and Williams",Bird Fence,downscindy@example.net,The Bird Fence is outstanding! I am extremely satisfied with the Bird Fence.,1
+Email,Pierce Group,Highway fence,ctaylor@example.net,"The Highway fence is not good, and I expected better quality.",-1
+Email,Campbell-Wang,Highway fence,teresa47@example.net,Extremely dissatisfied with the Highway fence and the overall experience.,-1
+Email,"Johnson, Cook and Luna",Garden fence,andrew75@example.com,I love the Garden fence! It exceeds my expectations.,1
+Email,Adams Ltd,Construction Wire,trevor89@example.org,I'm indifferent to the Construction Wire and its functionalities.,0
+Email,"Drake, Mccoy and Tate",Garden fence,nicholskenneth@example.org,I'm very impressed with the Garden fence and the level of service received.Thank you,1
+Email,Martinez PLC,Bird Fence,xstone@example.net,I love the Bird Fence! It exceeds my expectations.,1
+Email,"Jones, Guerra and Sanchez",Garden fence,richardsonjennifer@example.org,"The Garden fence is top-notch, and the Garden fence exceeded my expectations.",1
+Email,Kirby and Sons,Highway fence,seth41@example.net,I neither like nor dislike the Highway fence; it's just a Highway fence.,0
+Email,Wagner LLC,Bird Fence,micheal57@example.net,The Bird Fence is outstanding! I am extremely satisfied with the Bird Fence.,1
+Email,"Molina, Johnston and King",Garden fence,kmiller@example.net,"The Garden fence is superb, and I commend the team for their efforts.",1
+Email,Butler-Beasley,Highway fence,sarah97@example.com,"The Highway fence is top-notch, and the Highway fence exceeded my expectations.",1
+Email,White Group,Chicken fence,elizabethrobinson@example.net,"Fairly average, nothing special to highlight.",0
+Email,"Davis, Lee and Kennedy",Chicken fence,hopkinsmichael@example.net,Unhappy with both the Chicken fence and the service level. Requesting a refund.,-1
+Email,Benson-Wood,Chicken fence,donaldgalloway@example.net,"Decent enough, but lacks a wow factor.",0
+Email,Avila and Sons,Construction Wire,ggeorge@example.org,"It's fine, but I expected a bit more.",0
+Email,Taylor Inc,Chicken fence,greenbrittany@example.net,I'm delighted with the Chicken fence and the overall experience.Thanks,1
+Email,Castillo Inc,Chicken fence,christophergross@example.com,Excellent Chicken fence thanks my friend,1
+Email,"Miller, Jackson and Ramsey",Bird Fence,john61@example.org,"Okay product, meets basic requirements.",0
+Email,Meyer-Lewis,Construction Wire,james19@example.com,Excellent Construction Wire thanks my friend,1
+Email,Lucas LLC,Chicken fence,jeffreykeller@example.com,"It's a standard Chicken fence, and I don't have any particular praise or criticism.",0
+Email,Stephenson Group,Construction Wire,robert01@example.net,The Construction Wire is outstanding! I am extremely satisfied with the Construction Wire.,1
+Email,"Johnston, Mckay and Hill",Construction Wire,robert07@example.com,"The Construction Wire is below expectations, particularly in terms of low qualityConstruction Wire.",-1
+Email,Griffin-Cox,Chicken fence,cherrykenneth@example.com,I have no strong feelings about the Chicken fence. It's just a Chicken fence.,0
+Email,Coleman LLC,Highway fence,tbenjamin@example.org,I neither like nor dislike the Highway fence; it's just a Highway fence.,0
+Email,"Davis, Bautista and Bass",Construction Wire,michael14@example.com,I love the Construction Wire! It exceeds my expectations.,1
+Email,"Lawson, Roach and Burns",Construction Wire,shirley79@example.net,Excellent Construction Wire thanks my friend,1
+Email,"White, Brown and Hopkins",Garden fence,shaneballard@example.net,I feel indifferent about the Garden fence and its features.,0
+Email,"Perry, Dominguez and Rodriguez",Chicken fence,zperkins@example.org,"Sorry, Its just bad qualityThe Chicken fence needs improvement, especially in terms of Chicken fence.Quality not good",-1
+Email,Stone-Bautista,Bird Fence,stephaniemorton@example.org,"The Bird Fence is superb, and I commend the team for their efforts.",1
+Email,"Cross, Richardson and Johnson",Construction Wire,vincentbray@example.org,The Construction Wire is outstanding! I am extremely satisfied with the Construction Wire.,1
+Email,"Vincent, Lucas and Gonzalez",Construction Wire,tracynguyen@example.net,Unhappy with both the Construction Wire and the service level. Requesting a refund.,-1
+Email,Dudley PLC,Construction Wire,alyssa50@example.org,I'm very impressed with the Construction Wire and the level of service received.Thank you,1
+Email,"Austin, Alexander and Hernandez",Bird Fence,lboone@example.org,I'm not happy with the Bird Fence and the level of service provided. I request a refund,-1
+Email,Ross Inc,Chicken fence,edward63@example.com,"The Chicken fence is lacking, especially when it comes to its quality. Extremely dissatisfied.",-1
+Email,"Gomez, Rodriguez and Rojas",Chicken fence,jordanrichard@example.org,I'm indifferent to the Chicken fence and its functionalities.,0
+Email,Kelly PLC,Highway fence,qreyes@example.net,"The Highway fence is average, and I don't have any strong opinions.",0
+Email,Faulkner LLC,Construction Wire,millerdean@example.com,Need a replacement for the Construction Wire. Highly dissatisfied with the purchase.,-1
+Email,Brooks-Rodriguez,Garden fence,jensenlaurie@example.com,I have no strong feelings about the Garden fence. It's just a Garden fence.,0
+Email,Lee Group,Highway fence,jennifer95@example.com,"The Highway fence is top-notch, and the Highway fence exceeded my expectations.",1
+Email,Moore Ltd,Bird Fence,lawrenceana@example.net,The Bird Fence is outstanding! I am extremely satisfied with the Bird Fence.,1
+Email,Lewis LLC,Chicken fence,lisastewart@example.com,"The Chicken fence is superb, and I commend the team for their efforts.",1
+Email,Torres-Smith,Construction Wire,tracysutton@example.net,"Just five stars as always, happy about it",1
+Email,Jensen Ltd,Bird Fence,nathaniel23@example.net,"The Bird Fence is average, and I don't have any strong opinions.",0
+Email,Phillips LLC,Garden fence,fowlerlisa@example.com,"The Garden fence is excellent, and I would highly recommend it. You are the best",1
+Email,Smith-Anderson,Bird Fence,hamptontammy@example.com,The Bird Fence is okay; neither good nor bad.,0
+Email,Robinson and Sons,Chicken fence,racheltownsend@example.org,"Definitely going to order again, thanks",1
+Email,Zimmerman Ltd,Bird Fence,villarrealdana@example.net,I have no strong feelings about the Bird Fence. It's just a Bird Fence.,0
+Email,"Anderson, Woods and White",Bird Fence,meganpayne@example.com,I'm very impressed with the Bird Fence and the level of service received.Thank you,1
+Email,Burns and Sons,Highway fence,danielmichael@example.com,"Just five stars as always, happy about it",1
+Email,Shannon-Singleton,Garden fence,romeroadrian@example.com,I encountered issues with the Garden fence that need urgent attention.,-1
+Email,Sullivan-Morales,Construction Wire,marilynbennett@example.com,"Okay product, meets basic requirements.",0
+Email,Armstrong-Russell,Chicken fence,bfox@example.org,I feel indifferent about the Chicken fence and its features.,0
+Email,"Galvan, Adams and Hicks",Construction Wire,james98@example.org,"The Construction Wire is top-notch, and the Construction Wire exceeded my expectations.",1
+Email,Johnson-Estrada,Construction Wire,ericsnyder@example.net,"The Construction Wire is far below expectations, particularly in terms of its poor quality.",-1
+Email,"Watkins, Hall and Mitchell",Construction Wire,vargasjeffrey@example.org,"Okay product, meets basic requirements.",0
+Email,Owens-David,Bird Fence,erik12@example.org,I feel indifferent about the Bird Fence and its features.,0
+Email,Ross-Thomas,Chicken fence,seanyoung@example.com,"Decent enough, but lacks a wow factor.",0
+Email,Andrews Group,Highway fence,danielkemp@example.org,"Definitely going to order again, thanks",1
+Email,Martinez-Mendoza,Bird Fence,kingkerry@example.com,"Okay product, meets basic requirements.",0
+Email,"Henson, Freeman and Best",Construction Wire,miranda47@example.com,"Acceptable performance, but not exceptional.",0
+Email,"Tucker, Burns and Merritt",Chicken fence,barry74@example.org,"Fairly average, nothing special to highlight.",0
+Email,"Gray, Hudson and Braun",Bird Fence,nicholasbrown@example.com,"Just five stars as always, happy about it",1
+Email,Elliott Ltd,Chicken fence,james02@example.com,I encountered issues with the Chicken fence that need urgent attention.,-1
+Email,Schultz Group,Highway fence,cunninghamrandy@example.com,"Average quality, meets basic expectations.",0
+Email,"Blackwell, Barker and Brown",Chicken fence,vjackson@example.com,Disappointed as the Chicken fence did not meet expectations. Very poor quality.,-1
+Email,"Ingram, Fox and Wallace",Chicken fence,susan73@example.org,Received a damaged Chicken fence. Requesting a refund immediately.,-1
+Email,"Hardin, Walton and Gutierrez",Chicken fence,craig86@example.net,I love the Chicken fence! It exceeds my expectations.,1
+Email,Holder PLC,Construction Wire,amanda59@example.com,"Damaged here, asking refund",-1
+Email,"Rivera, Lane and Allen",Bird Fence,kimberly02@example.org,Received a damaged Bird Fence. Requesting a refund immediately.,-1
+Email,Bauer Ltd,Bird Fence,shirley93@example.com,"It's a standard Bird Fence, and I don't have any particular praise or criticism.",0
+Email,Nelson-Kerr,Construction Wire,browntimothy@example.org,I appreciate the Construction Wire and the exceptional service provided.,1
+Email,Smith-Lewis,Garden fence,burgessjose@example.com,I feel indifferent about the Garden fence and its features.,0
+Email,Peterson-Ortega,Highway fence,njensen@example.org,"The Highway fence is excellent, and I would highly recommend it. You are the best",1
+Email,Stewart Group,Garden fence,jstephens@example.net,I feel indifferent about the Garden fence and its features.,0
+Email,Smith Ltd,Bird Fence,angela50@example.org,I'm indifferent to the Bird Fence and its functionalities.,0
+Email,Rice-Parker,Chicken fence,joshua04@example.com,"The Chicken fence didn't meet my expectations, and I'm dissatisfied. Very low quality",-1
+Email,"Walton, Fox and Moore",Construction Wire,clarksharon@example.net,I neither like nor dislike the Construction Wire; it's just a Construction Wire.,0
+Email,Guerrero LLC,Highway fence,glen85@example.org,Extremely dissatisfied with the Highway fence and the overall experience.,-1
+Email,Stewart-Kelly,Garden fence,traceyprice@example.org,"The Garden fence didn't meet my expectations, and I'm dissatisfied. Very low quality",-1
+Email,"Phillips, Bailey and Hernandez",Bird Fence,carolyn49@example.org,"The Bird Fence is average, and I don't have any strong opinions.",0
+Email,Evans-King,Highway fence,rogerpage@example.org,I appreciate the Highway fence and the exceptional service provided.,1
+Email,Ellison and Sons,Garden fence,tbailey@example.net,"Average quality, meets basic expectations.",0
+Email,Davis-Jackson,Bird Fence,abigailgonzalez@example.com,A lot of issues,-1
+Email,"Carter, Benson and Harrison",Bird Fence,ryanbarton@example.org,"Okay product, meets basic requirements.",0
+Email,Moore Inc,Bird Fence,xcastaneda@example.com,"The Bird Fence is top-notch, and the Bird Fence exceeded my expectations.",1
+Email,Robinson-Bailey,Highway fence,shawn75@example.com,"The Highway fence is superb, and I commend the team for their efforts.",1
+Email,Thomas-Terry,Construction Wire,zachary08@example.net,I dont like it,-1
+Email,"Flores, Perkins and Munoz",Bird Fence,ginaturner@example.org,The Bird Fence is fantastic.,1
+Email,"Henderson, Wilkinson and Garcia",Construction Wire,wgreer@example.com,Thanls for the service,1
+Email,"Harmon, Johnson and Mayo",Construction Wire,paula04@example.com,Thanls for the service,1
+Email,"Cohen, Nelson and Gregory",Construction Wire,zacharymcclain@example.org,I'm delighted with the Construction Wire and the overall experience.Thanks,1
+Email,"Rios, Schneider and Singh",Garden fence,fwaters@example.org,I neither like nor dislike the Garden fence; it's just a Garden fence.,0
+Email,Gonzalez and Sons,Construction Wire,garytucker@example.net,I feel indifferent about the Construction Wire and its features.,0
+Email,Rocha Ltd,Garden fence,eileen72@example.org,"Okay product, meets basic requirements.",0
+Email,Lamb Inc,Construction Wire,pjohnson@example.com,I neither like nor dislike the Construction Wire; it's just a Construction Wire.,0
+Email,Ortega-Romero,Highway fence,zimmermanmelissa@example.org,"Definitely going to order again, thanks",1
+Email,Campbell-Bowman,Garden fence,palexander@example.com,"Definitely going to order again, thanks",1
+Email,Reynolds Ltd,Garden fence,vjones@example.net,"I am thrilled with the Garden fence. It's truly remarkable, happy",1
+Email,Cummings Inc,Garden fence,williamblack@example.org,I have no strong feelings about the Garden fence. It's just a Garden fence.,0
+Email,"Garcia, David and Cox",Garden fence,spencermatthew@example.com,I'm indifferent to the Garden fence and its functionalities.,0
+Email,Patterson LLC,Construction Wire,smaxwell@example.org,I'm very impressed with the Construction Wire and the level of service received.Thank you,1
+Email,"Horn, Cook and Lopez",Chicken fence,traci52@example.net,I am disappointed with the Chicken fence. It falls short in terms of Chicken fence.,-1
+Email,Costa-Houston,Garden fence,torresbrenda@example.net,"It's a standard Garden fence, and I don't have any particular praise or criticism.",0
+Email,Thompson-Bryan,Highway fence,vfrank@example.net,"It's fine, but I expected a bit more.",0
+Email,"Smith, Love and Smith",Bird Fence,ltaylor@example.com,The Bird Fence is outstanding! I am extremely satisfied with the Bird Fence.,1
+Email,Cole Group,Bird Fence,jenkinsrandy@example.org,"The Bird Fence didn't meet my expectations, and I'm dissatisfied. Very low quality",-1
+Email,Phillips-Tran,Highway fence,dominguezpaul@example.org,"The Highway fence is superb, and I commend the team for their efforts.",1
+Email,Scott-Hall,Bird Fence,linda92@example.org,I'm indifferent to the Bird Fence and its functionalities.,0
+Email,Ortega-Clark,Construction Wire,shawelizabeth@example.org,Excellent Construction Wire thanks my friend,1
+Email,Hughes-Chambers,Chicken fence,jonathan34@example.org,I neither like nor dislike the Chicken fence; it's just a Chicken fence.,0
+Email,Clark-Lewis,Garden fence,kimberly68@example.org,I'm delighted with the Garden fence and the overall experience.Thanks,1
+Email,Miller and Sons,Highway fence,marcmack@example.org,The Highway fence is fantastic.,1
+Email,"Carlson, Hill and Butler",Construction Wire,reyesjennifer@example.org,I encountered issues with the Construction Wire that need urgent attention.,-1
+Email,Brown-Martinez,Bird Fence,icarter@example.net,"Top quality received, love it",1
+Email,Harrison-Reyes,Chicken fence,matthewgray@example.com,I'm indifferent to the Chicken fence and its functionalities.,0
+Email,Stone Inc,Chicken fence,stefanie21@example.net,I love the Chicken fence! It exceeds my expectations.,1
+Email,David Group,Construction Wire,hartmelissa@example.com,"Damaged here, asking refund",-1
+Email,Wilson-Smith,Chicken fence,elizabethwaters@example.net,"Definitely going to order again, thanks",1
+Email,"Moses, Quinn and Harrison",Garden fence,annettewhite@example.net,I dont like it,-1
+Email,Foster-Clayton,Highway fence,xcobb@example.com,Disappointed as the Highway fence did not meet expectations. Very poor quality.,-1
+Email,Smith Ltd,Bird Fence,elizabeth78@example.net,"Acceptable performance, but not exceptional.",0
+Email,Jones-Page,Garden fence,scott91@example.net,Need a replacement for the Garden fence. Highly dissatisfied with the purchase.,-1
+Email,Hogan-Harper,Bird Fence,sean80@example.net,"The Bird Fence is average, and I don't have any strong opinions.",0
+Email,Griffin-Mathis,Highway fence,olambert@example.net,The Highway fence is okay; neither good nor bad.,0
+Email,Lane-Gonzalez,Construction Wire,lisarice@example.net,I'm delighted with the Construction Wire and the overall experience.Thanks,1
+Email,Rangel-Burns,Garden fence,ashleepham@example.com,"Top quality received, love it",1
+Email,"Rodriguez, Gill and Gonzalez",Bird Fence,delgadoconnie@example.net,I feel indifferent about the Bird Fence and its features.,0
+Email,Shaw-Vargas,Bird Fence,nmiller@example.org,"Just five stars as always, happy about it",1
+Email,Norman-Miles,Bird Fence,ufernandez@example.com,"Fairly average, nothing special to highlight.",0
+Email,"Bridges, Savage and Bailey",Bird Fence,joshua12@example.net,"I am thrilled with the Bird Fence. It's truly remarkable, happy",1
+Email,"Cooper, Hill and Hall",Construction Wire,riveramichael@example.org,"Fairly average, nothing special to highlight.",0
+Email,Wells LLC,Bird Fence,emilylucas@example.net,Excellent Bird Fence thanks my friend,1
+Email,"Baker, Perez and Watson",Highway fence,angela67@example.com,"The Highway fence is average, and I don't have any strong opinions.",0
+Email,Greene Ltd,Chicken fence,gallaghermatthew@example.net,I have no strong feelings about the Chicken fence. It's just a Chicken fence.,0
+Email,Campbell-Byrd,Construction Wire,christinewelch@example.com,The Construction Wire is okay; neither good nor bad.,0
+Email,Palmer Group,Garden fence,andersonsandra@example.org,"The Garden fence is top-notch, and the Garden fence exceeded my expectations.",1
+Email,"Yu, Byrd and Gordon",Chicken fence,barronjerry@example.com,I'm delighted with the Chicken fence and the overall experience.Thanks,1
+Email,Cooper and Sons,Bird Fence,hughesdevin@example.com,I'm neutral about the Bird Fence and its performance.,0
+Email,"Baldwin, Adkins and Mccarty",Bird Fence,ramosjennifer@example.org,"The Bird Fence is excellent, and I would highly recommend it. You are the best",1
+Email,Adams Ltd,Highway fence,lee15@example.com,"It's a standard Highway fence, and I don't have any particular praise or criticism.",0
+Email,Peters-Foster,Construction Wire,odiaz@example.org,"Top quality received, love it",1
+Email,"Anderson, Walls and Sims",Garden fence,cperry@example.com,"It's fine, but I expected a bit more.",0
+Email,Smith-Rosario,Chicken fence,fbrewer@example.com,I am frustrated with the Chicken fence. It fails to meet expectations in terms of Chicken fence quality.,-1
+Email,Ritter and Sons,Garden fence,kennethperez@example.com,"Need replacement, dissatisfiedThe Garden fence disappointed me, particularly in terms of Garden fence.Dont suit me at all",-1
+Email,"Edwards, Mosley and Jensen",Highway fence,wmiller@example.com,I love the Highway fence! It exceeds my expectations.,1
+Email,"Frederick, Smith and Solis",Chicken fence,smaynard@example.com,"Average quality, meets basic expectations.",0
+Email,"Bailey, Acosta and Johnson",Chicken fence,jason77@example.com,I'm dissatisfied with the Chicken fence and the overall experience. ,-1
+Email,"Flores, Freeman and Martinez",Highway fence,johnsmith@example.com,"The Highway fence is below expectations, particularly in terms of low qualityHighway fence.",-1
+Email,Martin-Branch,Chicken fence,glen84@example.org,I feel indifferent about the Chicken fence and its features.,0
+Email,"Daniels, Villegas and Pena",Bird Fence,jasoncoleman@example.com,Excellent Bird Fence thanks my friend,1
+Email,Hamilton-Miller,Highway fence,nyoung@example.com,Thanls for the service,1
+Email,Gibson and Sons,Construction Wire,mgarcia@example.org,The Construction Wire is okay; neither good nor bad.,0
+Email,Hancock-Obrien,Chicken fence,tkirk@example.net,The Chicken fence is neither exceptional nor subpar in my experience.,0
+Email,Lawson Ltd,Chicken fence,richard85@example.org,"It's a standard Chicken fence, and I don't have any particular praise or criticism.",0
+Email,"Estes, Smith and Fritz",Chicken fence,williamsjulie@example.org,"Decent enough, but lacks a wow factor.",0
+Email,"Phillips, Mcintyre and Valentine",Bird Fence,nicholas10@example.com,"Definitely going to order again, thanks",1
+Email,"Hancock, Carpenter and Baker",Bird Fence,megancross@example.com,I'm dissatisfied with the Bird Fence and the overall experience. ,-1
+Email,Rogers Group,Garden fence,lyang@example.net,Thanls for the service,1
+Email,Smith Group,Garden fence,shelia33@example.org,"The Garden fence is excellent, and I would highly recommend it. You are the best",1
+Email,"Price, Williams and Pham",Chicken fence,tyler17@example.com,"Definitely going to order again, thanks",1
+Email,Garrett PLC,Bird Fence,xnelson@example.org,"Okay product, meets basic requirements.",0
+Email,"Khan, James and Hughes",Highway fence,angela87@example.org,I neither like nor dislike the Highway fence; it's just a Highway fence.,0
+Email,Bell-Thomas,Garden fence,cpham@example.org,The Garden fence is outstanding! I am extremely satisfied with the Garden fence.,1
+Email,Chapman LLC,Highway fence,benjaminhubbard@example.org,I'm delighted with the Highway fence and the overall experience.Thanks,1
+Email,"Mcintyre, Villarreal and Estes",Bird Fence,chavezamanda@example.org,"The Bird Fence is top-notch, and the Bird Fence exceeded my expectations.",1
+Email,"Robinson, Green and Meadows",Construction Wire,ugoodman@example.com,Need a replacement for the Construction Wire. Highly dissatisfied with the purchase.,-1
+Email,Clark-Chen,Construction Wire,ericsmith@example.com,"The Construction Wire is average, and I don't have any strong opinions.",0
+Email,Alvarado-Mcbride,Highway fence,patriciadiaz@example.org,"The Highway fence is excellent, and I would highly recommend it. You are the best",1
+Email,Travis-Parsons,Highway fence,ghughes@example.org,I'm very impressed with the Highway fence and the level of service received.Thank you,1
+Email,Campbell and Sons,Chicken fence,katrinasmith@example.net,"The Chicken fence is top-notch, and the Chicken fence exceeded my expectations.",1
+Email,Hoffman Ltd,Garden fence,alvinvaldez@example.com,I'm very impressed with the Garden fence and the level of service received.Thank you,1
+Email,"Dixon, Clark and Coffey",Garden fence,michael42@example.org,The Garden fence is okay; neither good nor bad.,0
+Email,"Payne, Owens and Parker",Chicken fence,jordanballard@example.org,"Just five stars as always, happy about it",1
+Email,"Johnson, Munoz and Lane",Construction Wire,curtiserin@example.org,Encountered severe issues with the Construction Wire. Urgently need a resolution.,-1
+Email,Woods Group,Bird Fence,randallshannon@example.net,"Top quality received, love it",1
+Email,Smith-Wells,Construction Wire,todd32@example.com,I'm very impressed with the Construction Wire and the level of service received.Thank you,1
+Email,Obrien-Fuentes,Bird Fence,oscar86@example.org,Need a replacement for the Bird Fence. Highly dissatisfied with the purchase.,-1
+Email,Patterson Group,Bird Fence,anita99@example.com,I have no strong feelings about the Bird Fence. It's just a Bird Fence.,0
+Email,"Martin, Lopez and Anderson",Bird Fence,mgonzalez@example.com,"Definitely going to order again, thanks",1
+Email,Baldwin-Rodriguez,Highway fence,smithjames@example.org,I dont like it,-1
+Email,"Cochran, Carlson and Bass",Construction Wire,brownryan@example.net,I dont like it,-1
+Email,Peters Ltd,Highway fence,haydenmarissa@example.com,The Highway fence is not up to the mark. Expected much better quality.,-1
+Email,"Mills, Lang and Franklin",Chicken fence,davidgomez@example.net,This Chicken fence is a disappointment. The quality is subpar.,-1
+Email,Davis-Hensley,Highway fence,jeanneodonnell@example.net,"Okay product, meets basic requirements.",0
+Email,Rocha Inc,Bird Fence,christinasmith@example.com,I'm neutral about the Bird Fence and its performance.,0
+Email,Jennings-Stewart,Chicken fence,curtis50@example.org,The Chicken fence is neither impressive nor disappointing in my opinion.,0
+Email,Fernandez PLC,Highway fence,shepherdkatie@example.net,"Acceptable performance, but not exceptional.",0
+Email,Gallagher Ltd,Highway fence,dmurray@example.com,Received a damaged Highway fence. Requesting a refund immediately.,-1
+Email,"Strickland, Rodriguez and Simmons",Bird Fence,nspencer@example.com,Thanls for the service,1
+Email,Roberts Ltd,Chicken fence,donald77@example.com,This Chicken fence is a disappointment. The quality is subpar.,-1
+Email,Nelson-Parker,Garden fence,lee87@example.com,"I am thrilled with the Garden fence. It's truly remarkable, happy",1
+Email,Mason-Lopez,Garden fence,jenniferhernandez@example.net,I'm indifferent to the Garden fence and its functionalities.,0
+Email,Moore Group,Chicken fence,burnettdeanna@example.com,"Average quality, meets basic expectations.",0
+Email,Salinas-Cole,Construction Wire,connor83@example.com,"Fairly average, nothing special to highlight.",0
+Email,Rodriguez-Ingram,Construction Wire,upadilla@example.com,Sorry . It doesn't appeal to my preferences.,-1
+Email,Hardy LLC,Garden fence,robert57@example.com,"Damaged here, asking refund",-1
+Email,"Bush, Powell and Thomas",Bird Fence,barberelizabeth@example.com,I'm indifferent to the Bird Fence and its functionalities.,0
+Email,Tyler Ltd,Bird Fence,sfriedman@example.net,Extremely dissatisfied with the Bird Fence and the overall experience.,-1
+Email,Calderon Inc,Construction Wire,rebecca08@example.net,I love the Construction Wire! It exceeds my expectations.,1
+Email,"Mccoy, Boyer and Gonzales",Chicken fence,jessicayoung@example.net,I'm indifferent to the Chicken fence and its functionalities.,0
+Email,Olsen-Navarro,Garden fence,tiffanywatkins@example.net,I dont like it,-1
+Email,Cooper LLC,Garden fence,crystalflores@example.com,The Garden fence is fantastic.,1
+Email,Cooper-Morris,Garden fence,acarr@example.com,"Okay product, meets basic requirements.",0
+Email,Rodriguez PLC,Highway fence,alyssa87@example.net,Excellent Highway fence thanks my friend,1
+Email,"Santos, Knight and Stephenson",Highway fence,thomas38@example.org,"Average quality, meets basic expectations.",0
+Email,"Morris, Kelly and Jefferson",Chicken fence,isaiahrodriguez@example.org,"It's a standard Chicken fence, and I don't have any particular praise or criticism.",0
+Email,"Price, Walker and Campos",Bird Fence,dominique50@example.net,"It's a standard Bird Fence, and I don't have any particular praise or criticism.",0
+Email,Bennett and Sons,Bird Fence,psimpson@example.net,"The Bird Fence is lacking, especially when it comes to its quality. Extremely dissatisfied.",-1
+Email,Young-Lewis,Highway fence,julie69@example.org,Extremely dissatisfied with the Highway fence and the overall experience.,-1
+Email,Gray Group,Bird Fence,colleen91@example.net,Extremely dissatisfied with the Bird Fence and the overall experience.,-1
+Email,"Griffin, Davis and Kidd",Bird Fence,swansonfrank@example.net,I feel indifferent about the Bird Fence and its features.,0
+Email,Smith-Freeman,Garden fence,sextonkimberly@example.net,Excellent Garden fence thanks my friend,1
+Email,"Gonzalez, Perry and Atkinson",Highway fence,kimberlywalters@example.net,"The Highway fence is far below expectations, particularly in terms of its poor quality.",-1
+Email,Bradley-Greene,Bird Fence,morganrubio@example.net,Sorry . It doesn't appeal to my preferences.,-1
+Email,"Stevenson, Ross and Bailey",Highway fence,tsmith@example.org,"The Highway fence didn't meet my expectations, and I'm dissatisfied. Very low quality",-1
+Email,Ramos-Rhodes,Garden fence,vdaniel@example.com,The Garden fence is neither impressive nor disappointing in my opinion.,0
+Email,Fisher PLC,Chicken fence,smithsamuel@example.com,"Top quality received, love it",1
+Email,Schultz-Murphy,Garden fence,lnichols@example.net,I'm neutral about the Garden fence and its performance.,0
+Email,Singh Group,Construction Wire,gregoryglenn@example.com,"The Construction Wire is average, and I don't have any strong opinions.",0
+Email,"Cortez, Brown and Schwartz",Bird Fence,kristilane@example.net,Excellent Bird Fence thanks my friend,1
+Email,Shaw-May,Bird Fence,figueroacaroline@example.org,I'm dissatisfied with the Bird Fence and the overall experience. ,-1
+Email,"Richardson, Campbell and Smith",Bird Fence,efrench@example.com,A lot of issues,-1
+Email,Terry-Hall,Bird Fence,wesleyjohnson@example.com,"The Bird Fence is average, and I don't have any strong opinions.",0
+Email,Brock-Kelly,Highway fence,conwayjessica@example.net,Excellent Highway fence thanks my friend,1
+Email,Mcpherson-Marshall,Highway fence,anthonyharper@example.net,"Acceptable performance, but not exceptional.",0
+Email,"Contreras, Rios and Bradshaw",Bird Fence,jeremybrown@example.org,The Bird Fence is fantastic.,1
+Email,Welch-Ramirez,Garden fence,randallmelendez@example.com,The Garden fence is fantastic.,1
+Email,Robertson LLC,Garden fence,mhowell@example.com,Excellent Garden fence thanks my friend,1
+Email,"Miller, Nguyen and Brown",Highway fence,steven01@example.org,I neither like nor dislike the Highway fence; it's just a Highway fence.,0
+Email,Adams-Williams,Garden fence,elizabeth39@example.com,"It's fine, but I expected a bit more.",0
+Email,Pruitt-Armstrong,Construction Wire,millerbrett@example.com,I am disappointed with the Construction Wire. It falls short in terms of Construction Wire.,-1
+Email,Rivera Ltd,Construction Wire,wagnerchristina@example.org,The Construction Wire is not up to the mark. Expected much better quality.,-1
+Email,Nelson-Green,Garden fence,sean84@example.com,The Garden fence is fantastic.,1
+Email,Schwartz-Atkinson,Chicken fence,chadwilson@example.com,Experiencing a lot of issues with the Chicken fence. Dissatisfied.,-1
+Email,Vaughan-Barrett,Garden fence,kevinrodriguez@example.net,A lot of issues,-1
+Email,"Green, Sanders and Nichols",Construction Wire,kimberlyschmidt@example.net,I'm indifferent to the Construction Wire and its functionalities.,0
+Email,Beltran-Vasquez,Bird Fence,jasmine62@example.com,I neither like nor dislike the Bird Fence; it's just a Bird Fence.,0
+Email,Figueroa-Rodriguez,Bird Fence,cameronjohnson@example.net,"Definitely going to order again, thanks",1
+Email,Flores Group,Highway fence,josephmccann@example.org,"The Highway fence is top-notch, and the Highway fence exceeded my expectations.",1
+Email,Taylor-Luna,Construction Wire,brandoncooper@example.net,I love the Construction Wire! It exceeds my expectations.,1
+Email,Nelson-Manning,Highway fence,timothy60@example.org,Need a replacement for the Highway fence. Highly dissatisfied with the purchase.,-1
+Email,Sandoval Inc,Chicken fence,vrogers@example.org,"It's fine, but I expected a bit more.",0
+Email,Walker PLC,Garden fence,mvasquez@example.com,The Garden fence is neither impressive nor disappointing in my opinion.,0
+Email,Villarreal PLC,Construction Wire,scottlee@example.com,"Decent enough, but lacks a wow factor.",0
+Email,Briggs-Robinson,Construction Wire,tammygilbert@example.net,"The Construction Wire is average, and I don't have any strong opinions.",0
+Email,Davis PLC,Bird Fence,joseph81@example.org,"The Bird Fence is average, and I don't have any strong opinions.",0
+Email,Jackson-Cooper,Chicken fence,sfarrell@example.com,The Chicken fence is outstanding! I am extremely satisfied with the Chicken fence.,1
+Email,Reed-Wilson,Chicken fence,vicki92@example.com,The Chicken fence is outstanding! I am extremely satisfied with the Chicken fence.,1
+Email,Gregory-Moore,Chicken fence,stevennewton@example.org,Need a replacement for the Chicken fence. Highly dissatisfied with the purchase.,-1
+Email,"Miranda, Yang and Blanchard",Garden fence,oliverpatrick@example.org,"Decent enough, but lacks a wow factor.",0
+Email,Clayton Ltd,Garden fence,bryanyoung@example.org,The Garden fence is okay; neither good nor bad.,0
+Email,Tucker Ltd,Bird Fence,james25@example.org,I feel indifferent about the Bird Fence and its features.,0
+Email,Hanson LLC,Highway fence,nicholas43@example.net,"It's fine, but I expected a bit more.",0
+Email,"Hughes, Calderon and Moore",Bird Fence,taylor58@example.net,"The Bird Fence is top-notch, and the Bird Fence exceeded my expectations.",1
+Email,Ramirez and Sons,Construction Wire,hillpeter@example.org,"The Construction Wire is far below expectations, particularly in terms of its poor quality.",-1
+Email,"Bennett, Maldonado and Harper",Construction Wire,pamelamorton@example.org,"The Construction Wire is superb, and I commend the team for their efforts.",1
+Email,"Barry, Brewer and White",Construction Wire,qray@example.net,Sorry . It doesn't appeal to my preferences.,-1
+Email,"Vaughn, Porter and Henderson",Highway fence,gregoryyates@example.net,I'm neutral about the Highway fence and its performance.,0
+Email,"Campbell, Smith and Gilmore",Garden fence,xcampbell@example.com,The Garden fence is fantastic.,1
+Email,Garcia-Patton,Bird Fence,bwalters@example.org,"The Bird Fence is far below expectations, particularly in terms of its poor quality.",-1
+Email,Morales-Hernandez,Construction Wire,cynthia64@example.net,"The Construction Wire is superb, and I commend the team for their efforts.",1
+Email,Hunt-Vaughan,Highway fence,zgutierrez@example.org,"The Highway fence is average, and I don't have any strong opinions.",0
+Email,Cox-Woods,Construction Wire,brianfarmer@example.com,The Construction Wire is not up to the mark. Expected much better quality.,-1
+Email,"Thomas, Smith and Miller",Bird Fence,jonathan20@example.net,"Damaged here, asking refund",-1
+Email,"Bernard, Perez and Johnson",Chicken fence,collinsrobert@example.net,"The Chicken fence is average, and I don't have any strong opinions.",0
+Email,"Brown, Lloyd and Caldwell",Garden fence,stevenclark@example.org,"Need replacement, dissatisfiedThe Garden fence disappointed me, particularly in terms of Garden fence.Dont suit me at all",-1
+Email,Ward Group,Highway fence,ellisdonna@example.com,"The Highway fence is average, and I don't have any strong opinions.",0
+Email,"Kemp, Anderson and Ramirez",Chicken fence,brandonfarmer@example.org,I neither like nor dislike the Chicken fence; it's just a Chicken fence.,0
+Email,Rowe-Fisher,Bird Fence,qroberts@example.net,"The Bird Fence is lacking, especially when it comes to its quality. Extremely dissatisfied.",-1
+Email,"Butler, Harris and Rios",Garden fence,kellybarnett@example.net,"Damaged here, asking refund",-1
+Email,Rogers-Lambert,Chicken fence,jimenezdarlene@example.net,I'm dissatisfied with the Chicken fence and the overall experience. ,-1
+Email,Johnson-Hill,Highway fence,santiagoerika@example.net,I'm dissatisfied with the Highway fence and the overall experience. ,-1
+Email,Riley LLC,Chicken fence,christophereverett@example.com,I dont like it,-1
+Email,Sosa Inc,Bird Fence,heather64@example.com,Encountered severe issues with the Bird Fence. Urgently need a resolution.,-1
+Email,White-York,Bird Fence,laura64@example.org,"Need replacement, dissatisfiedThe Bird Fence disappointed me, particularly in terms of Bird Fence.Dont suit me at all",-1
+Email,Williams-Morgan,Construction Wire,loriray@example.com,I encountered issues with the Construction Wire that need urgent attention.,-1
+Email,Joyce-Duarte,Bird Fence,brent06@example.net,I regret my purchase of the Bird Fence due to Bird Fence problems.,-1
+Email,Scott-Porter,Garden fence,davismelissa@example.net,Need a replacement for the Garden fence. Highly dissatisfied with the purchase.,-1
+Email,Roberts Ltd,Garden fence,vsimon@example.org,"The Garden fence didn't meet my expectations, and I'm dissatisfied. Very low quality",-1
+Email,Carter-Vance,Bird Fence,stokesrussell@example.net,I'm dissatisfied with the Bird Fence and the overall experience. ,-1
+Email,Zimmerman PLC,Chicken fence,lvaldez@example.net,Experiencing a lot of issues with the Chicken fence. Dissatisfied.,-1
+Email,Washington-Gray,Bird Fence,vwright@example.com,The Bird Fence is outstanding! I am extremely satisfied with the Bird Fence.,1
+Email,Campbell Ltd,Bird Fence,brookebates@example.com,The Bird Fence is neither exceptional nor subpar in my experience.,0
+Email,Perry and Sons,Highway fence,josejackson@example.com,The Highway fence is outstanding! I am extremely satisfied with the Highway fence.,1
+Email,Young-Green,Highway fence,melissa03@example.net,I'm dissatisfied with the Highway fence and the overall experience. ,-1
+Email,Black Ltd,Bird Fence,nsmith@example.net,"Acceptable performance, but not exceptional.",0
+Email,"Rollins, Mcmahon and Juarez",Bird Fence,jimwilliams@example.org,I'm neutral about the Bird Fence and its performance.,0
+Email,Randall Group,Construction Wire,kchase@example.com,"Okay product, meets basic requirements.",0
+Email,Burton-Chambers,Garden fence,xcollins@example.com,Excellent Garden fence thanks my friend,1
+Email,Brown LLC,Construction Wire,gschmidt@example.net,The Construction Wire is outstanding! I am extremely satisfied with the Construction Wire.,1
+Email,Johnson-Brown,Construction Wire,charles57@example.com,"Definitely going to order again, thanks",1
+Email,Mccullough LLC,Bird Fence,tfrank@example.net,The Bird Fence is outstanding! I am extremely satisfied with the Bird Fence.,1
+Email,"Jones, Reyes and Johnson",Garden fence,rodriguezbenjamin@example.com,This Garden fence is a disappointment. The quality is subpar.,-1
+Email,Miller-Jordan,Construction Wire,gwalker@example.com,The Construction Wire is okay; neither good nor bad.,0
+Email,"Flynn, Parker and Sampson",Chicken fence,thomasnguyen@example.net,"It's fine, but I expected a bit more.",0
+Email,"Romero, Wells and Bowman",Garden fence,jacksonjaclyn@example.com,Thanls for the service,1
+Email,Wall and Sons,Construction Wire,karijohnston@example.net,"Damaged here, asking refund",-1
+Email,"Alexander, Patterson and Wright",Bird Fence,jamie54@example.net,I'm neutral about the Bird Fence and its performance.,0
+Email,Watkins-Lara,Bird Fence,jonathanparks@example.org,I'm delighted with the Bird Fence and the overall experience.Thanks,1
+Email,Potter-Rowe,Chicken fence,latasha05@example.org,"The Chicken fence is excellent, and I would highly recommend it. You are the best",1
+Email,Williams-Johnson,Chicken fence,kirkchristina@example.com,I encountered issues with the Chicken fence that need urgent attention.,-1
+Email,Duncan Ltd,Highway fence,brandon79@example.net,I have no strong feelings about the Highway fence. It's just a Highway fence.,0
+Email,"Alvarez, Duncan and Phillips",Garden fence,uturner@example.net,"Acceptable performance, but not exceptional.",0
+Email,Miller-Vazquez,Garden fence,james13@example.org,"Okay product, meets basic requirements.",0
+Email,Smith Inc,Chicken fence,fwilliams@example.org,"Acceptable performance, but not exceptional.",0
+Email,Williams Inc,Highway fence,lukemcdonald@example.com,"The Highway fence is superb, and I commend the team for their efforts.",1
+Email,Williams-Andrews,Bird Fence,william29@example.net,"It's a standard Bird Fence, and I don't have any particular praise or criticism.",0
+Email,Gilbert-Lane,Garden fence,kevin15@example.com,I'm neutral about the Garden fence and its performance.,0
+Email,"Palmer, Wilson and Andrade",Bird Fence,jennifer63@example.net,Need a replacement for the Bird Fence. Highly dissatisfied with the purchase.,-1
+Email,Wallace Ltd,Garden fence,nconner@example.org,I love the Garden fence! It exceeds my expectations.,1
+Email,Webb LLC,Bird Fence,whiterachel@example.com,"I am thrilled with the Bird Fence. It's truly remarkable, happy",1
+Email,"Simpson, Campbell and Kelly",Construction Wire,mitchell83@example.net,The Construction Wire is neither impressive nor disappointing in my opinion.,0
+Email,"James, Singleton and Sullivan",Highway fence,stephanie78@example.net,"Fairly average, nothing special to highlight.",0
+Email,"Mccall, Bryant and Brown",Chicken fence,mnorman@example.net,Here is very bad,-1
+Email,Brown and Sons,Bird Fence,gilesbrian@example.com,I'm delighted with the Bird Fence and the overall experience.Thanks,1
+Email,Green-Jones,Bird Fence,lhill@example.com,I'm very impressed with the Bird Fence and the level of service received.Thank you,1
+Email,"Jacobs, Ray and Carlson",Highway fence,woodspaul@example.net,The Highway fence is neither impressive nor disappointing in my opinion.,0
+Email,"Brown, Munoz and Hughes",Highway fence,matthewjones@example.net,I appreciate the Highway fence and the exceptional service provided.,1
+Email,Hendrix Inc,Construction Wire,masonjill@example.net,"Damaged here, asking refund",-1
+Email,"Burton, Hall and Davis",Construction Wire,leonard90@example.org,I have no strong feelings about the Construction Wire. It's just a Construction Wire.,0
+Email,Russo-Perez,Highway fence,daltonabigail@example.org,I am frustrated with the Highway fence. It fails to meet expectations in terms of Highway fence quality.,-1
+Email,Mills-Atkinson,Garden fence,jimenezbrandon@example.net,I appreciate the Garden fence and the exceptional service provided.,1
+Email,"Ramirez, Anderson and Wilson",Bird Fence,michael32@example.org,I'm not happy with the Bird Fence and the level of service provided. I request a refund,-1
+Email,"Harvey, Harvey and Smith",Construction Wire,bartonmanuel@example.com,"Fairly average, nothing special to highlight.",0
+Email,Collins-Tran,Highway fence,brandon45@example.org,Need a replacement for the Highway fence. Highly dissatisfied with the purchase.,-1
+Email,Hicks Ltd,Garden fence,traviswhite@example.org,I regret my purchase of the Garden fence due to Garden fence problems.,-1
+Email,Serrano-Houston,Garden fence,courtney41@example.com,The Garden fence is neither impressive nor disappointing in my opinion.,0
+Email,Ramirez-Scott,Chicken fence,romeroalexandra@example.net,Experiencing a lot of issues with the Chicken fence. Dissatisfied.,-1
+Email,Reid-James,Construction Wire,awatson@example.org,I'm delighted with the Construction Wire and the overall experience.Thanks,1
+Email,Richardson LLC,Construction Wire,ortegaholly@example.net,"The Construction Wire is top-notch, and the Construction Wire exceeded my expectations.",1
+Email,Miller Ltd,Bird Fence,daniel03@example.org,Thanls for the service,1
+Email,"King, Mason and Reid",Chicken fence,haley99@example.com,Excellent Chicken fence thanks my friend,1
+Email,Wilkins-Leon,Garden fence,muellertony@example.com,"The Garden fence is not good, and I expected better quality.",-1
+Email,Fowler Ltd,Highway fence,johnsonmichelle@example.net,"Top quality received, love it",1
+Email,Lewis-Chen,Bird Fence,booneanna@example.com,Regretting my purchase of the Bird Fence. Issues with Bird Fence are unacceptable.,-1
+Email,Brown-Harmon,Garden fence,parrishryan@example.org,I appreciate the Garden fence and the exceptional service provided.,1
+Email,Johnson-Jones,Garden fence,andremcknight@example.net,A lot of issues,-1
+Email,Chavez-Johnson,Chicken fence,obrown@example.org,The Chicken fence is neither impressive nor disappointing in my opinion.,0
+Email,Rodriguez PLC,Highway fence,andersonjames@example.com,"Just five stars as always, happy about it",1
+Email,Johnson PLC,Construction Wire,matthewbrandt@example.com,I appreciate the Construction Wire and the exceptional service provided.,1
+Email,Bray LLC,Chicken fence,wandasampson@example.net,I am frustrated with the Chicken fence. It fails to meet expectations in terms of Chicken fence quality.,-1
+Email,Brown and Sons,Garden fence,wernerfrederick@example.com,"The Garden fence didn't meet my expectations, and I'm dissatisfied. Very low quality",-1
+Email,"Cummings, Harris and Gibbs",Garden fence,stacey17@example.com,I feel indifferent about the Garden fence and its features.,0
+Email,Wilkinson LLC,Highway fence,uthornton@example.org,I'm delighted with the Highway fence and the overall experience.Thanks,1
+Email,Thompson-Thompson,Construction Wire,maddengregory@example.com,Need a replacement for the Construction Wire. Highly dissatisfied with the purchase.,-1
+Email,Anderson Inc,Bird Fence,michaelperry@example.com,"Decent enough, but lacks a wow factor.",0
+Email,"Williams, Gill and Hartman",Highway fence,janet28@example.org,"Top quality received, love it",1
+Email,Conway-Young,Garden fence,underwoodjoshua@example.org,I'm delighted with the Garden fence and the overall experience.Thanks,1
+Email,"Garrison, Sanders and Lambert",Garden fence,brandtdarlene@example.net,I love the Garden fence! It exceeds my expectations.,1
+Email,"Davis, Barton and Morris",Bird Fence,bmclaughlin@example.net,"Acceptable performance, but not exceptional.",0
+Email,Campbell-Young,Chicken fence,smccoy@example.net,"Sorry, Its just bad qualityThe Chicken fence needs improvement, especially in terms of Chicken fence.Quality not good",-1
+Email,"Thomas, Wilson and Hudson",Garden fence,hamiltonsean@example.net,Experiencing a lot of issues with the Garden fence. Dissatisfied.,-1
+Email,Small-Klein,Garden fence,perrydorothy@example.org,"Definitely going to order again, thanks",1
+Email,Perez-Stevenson,Garden fence,schmidtcody@example.com,"Sorry, Its just bad qualityThe Garden fence needs improvement, especially in terms of Garden fence.Quality not good",-1
+Email,Williams-Clark,Construction Wire,hponce@example.com,"Just five stars as always, happy about it",1
+Email,Lee LLC,Garden fence,caroline26@example.net,"I am thrilled with the Garden fence. It's truly remarkable, happy",1
+Email,"Gill, Wagner and Mcguire",Garden fence,gharrington@example.org,"Average quality, meets basic expectations.",0
+Email,Ray and Sons,Highway fence,barbermichael@example.com,A lot of issues,-1
+Email,Moreno-Harris,Bird Fence,michelle36@example.com,I am frustrated with the Bird Fence. It fails to meet expectations in terms of Bird Fence quality.,-1
+Email,Garcia-Ayers,Construction Wire,robertsonwilliam@example.net,I'm very impressed with the Construction Wire and the level of service received.Thank you,1
+Email,Ibarra-Ritter,Bird Fence,ashleywright@example.net,Received a damaged Bird Fence. Requesting a refund immediately.,-1
+Email,Miller Ltd,Construction Wire,stephanie06@example.org,"Average quality, meets basic expectations.",0
+Email,"Cook, Gomez and Wilson",Highway fence,wfisher@example.com,"The Highway fence is average, and I don't have any strong opinions.",0
+Email,"Garcia, Hamilton and Allen",Highway fence,thomasnavarro@example.net,"The Highway fence is average, and I don't have any strong opinions.",0
+Email,Miller PLC,Garden fence,robertsharp@example.org,"The Garden fence is excellent, and I would highly recommend it. You are the best",1
+Email,"Montoya, Delgado and White",Highway fence,vkaufman@example.net,Experiencing a lot of issues with the Highway fence. Dissatisfied.,-1
+Email,"Bennett, Nelson and Blanchard",Bird Fence,morganbrenda@example.net,"The Bird Fence is excellent, and I would highly recommend it. You are the best",1
+Email,Crawford-Martinez,Bird Fence,stewartrobert@example.com,Sorry . It doesn't appeal to my preferences.,-1
+Email,"Brown, Gibbs and Mason",Construction Wire,jmorrison@example.com,I'm very impressed with the Construction Wire and the level of service received.Thank you,1
+Email,"Bishop, Thomas and Dunlap",Chicken fence,susan02@example.com,Sorry . It doesn't appeal to my preferences.,-1
+Email,"Perry, Livingston and Ingram",Highway fence,michael48@example.org,"Decent enough, but lacks a wow factor.",0
+Email,Thompson Inc,Bird Fence,castrokristen@example.org,"The Bird Fence is not good, and I expected better quality.",-1
+Email,Dunlap-Sherman,Highway fence,john14@example.net,Disappointed as the Highway fence did not meet expectations. Very poor quality.,-1
+Email,Ray and Sons,Bird Fence,harrisjohn@example.net,I feel indifferent about the Bird Fence and its features.,0
+Email,Wood-Smith,Chicken fence,elizabethgrant@example.org,Here is very bad,-1
+Email,"Miller, Ferguson and Hernandez",Construction Wire,brendancraig@example.org,"The Construction Wire is average, and I don't have any strong opinions.",0
+Email,"Decker, Sims and Keith",Garden fence,christopher20@example.net,"Average quality, meets basic expectations.",0
+Email,Church-Vasquez,Chicken fence,romerojay@example.com,Received a damaged Chicken fence. Requesting a refund immediately.,-1
+Email,Turner and Sons,Garden fence,dberry@example.org,I'm very impressed with the Garden fence and the level of service received.Thank you,1
+Email,Morris-Barnett,Garden fence,btorres@example.net,I'm very impressed with the Garden fence and the level of service received.Thank you,1
+Email,"Noble, Crawford and Gonzalez",Garden fence,bonnie56@example.org,"The Garden fence is superb, and I commend the team for their efforts.",1
+Email,Lee Group,Construction Wire,harryhooper@example.com,"The Construction Wire is excellent, and I would highly recommend it. You are the best",1
+Email,"Reynolds, Reynolds and Romero",Construction Wire,gburton@example.net,"The Construction Wire is average, and I don't have any strong opinions.",0
+Email,"Morris, Singh and Haley",Highway fence,fordsharon@example.net,I encountered issues with the Highway fence that need urgent attention.,-1
+Email,Villegas-Walker,Highway fence,mthomas@example.net,I'm delighted with the Highway fence and the overall experience.Thanks,1
+Email,"Jensen, Smith and Hernandez",Garden fence,timothyyoung@example.org,The Garden fence is not up to the mark. Expected much better quality.,-1
+Email,"Ruiz, Singleton and Ward",Chicken fence,lynn27@example.org,I have no strong feelings about the Chicken fence. It's just a Chicken fence.,0
+Email,Shaw-Wheeler,Chicken fence,shawnakim@example.com,This Chicken fence is a disappointment. The quality is subpar.,-1
+Email,Johnson LLC,Construction Wire,kirkjuan@example.com,Sorry . It doesn't appeal to my preferences.,-1
+Email,Vasquez Ltd,Chicken fence,ramirezdawn@example.com,"Average quality, meets basic expectations.",0
+Email,Smith-Meyer,Garden fence,vincent28@example.net,The experience here is terrible. Issues with the Garden fence are unacceptable.,-1
+Email,Johnson-Bautista,Highway fence,reevesheather@example.com,The Highway fence is neither impressive nor disappointing in my opinion.,0
+Email,"Torres, Mcdowell and Alvarez",Garden fence,michaelburnett@example.net,"Top quality received, love it",1
+Email,"Keller, Foster and Norris",Bird Fence,jeremy88@example.net,I'm dissatisfied with the Bird Fence and the overall experience. ,-1
+Email,"Marshall, Dunn and Beck",Chicken fence,yhenderson@example.org,I am disappointed with the Chicken fence. It falls short in terms of Chicken fence.,-1
+Email,Mcintosh and Sons,Construction Wire,ashleypowers@example.net,Unhappy with both the Construction Wire and the service level. Requesting a refund.,-1
+Email,"Rodriguez, Porter and Parks",Construction Wire,briananderson@example.net,Regretting my purchase of the Construction Wire. Issues with Construction Wire are unacceptable.,-1
+Email,"Duncan, Munoz and Newton",Bird Fence,ycherry@example.com,The Bird Fence is neither impressive nor disappointing in my opinion.,0
+Email,"Perez, Scott and Weiss",Highway fence,bradley39@example.net,I am frustrated with the Highway fence. It fails to meet expectations in terms of Highway fence quality.,-1
+Email,"Schneider, Davis and Robinson",Chicken fence,kathleen84@example.net,"It's a standard Chicken fence, and I don't have any particular praise or criticism.",0
+Email,"Watts, Thomas and Ortiz",Bird Fence,benderjeanette@example.org,Thanls for the service,1
+Email,"Thomas, Cannon and Cox",Construction Wire,alec21@example.org,"It's fine, but I expected a bit more.",0
+Email,"Conner, Davis and Ross",Bird Fence,leonard09@example.net,I regret my purchase of the Bird Fence due to Bird Fence problems.,-1
+Email,Fischer PLC,Bird Fence,patrick10@example.net,"Top quality received, love it",1
+Email,Hill PLC,Construction Wire,william57@example.com,I'm not happy with the Construction Wire and the level of service provided. I request a refund,-1
+Email,Mccormick PLC,Garden fence,kirbytina@example.net,I'm delighted with the Garden fence and the overall experience.Thanks,1
+Email,"Norris, Johnson and Thomas",Chicken fence,meganmendoza@example.com,"The Chicken fence didn't meet my expectations, and I'm dissatisfied. Very low quality",-1
+Email,Phillips-Anderson,Construction Wire,josephgoodwin@example.net,"Decent enough, but lacks a wow factor.",0
+Email,Ayers and Sons,Bird Fence,eperez@example.net,Excellent Bird Fence thanks my friend,1
+Email,Clark-Schultz,Construction Wire,mary41@example.net,"The Construction Wire is excellent, and I would highly recommend it. You are the best",1
+Email,Wright PLC,Highway fence,robert34@example.org,I encountered issues with the Highway fence that need urgent attention.,-1
+Email,"Hall, Gomez and Knight",Highway fence,shelbyrose@example.com,I'm not happy with the Highway fence and the level of service provided. I request a refund,-1
+Email,Gutierrez Group,Garden fence,nguyendawn@example.com,I neither like nor dislike the Garden fence; it's just a Garden fence.,0
+Email,"Willis, Daniels and Davis",Bird Fence,crush@example.org,The Bird Fence is fantastic.,1
+Email,Austin Group,Bird Fence,charlesgreen@example.org,The Bird Fence is neither exceptional nor subpar in my experience.,0
+Email,"Thomas, Phillips and Cooper",Bird Fence,qgreen@example.net,"Average quality, meets basic expectations.",0
+Email,"Brown, Ramirez and Bates",Garden fence,valerie40@example.org,"It's fine, but I expected a bit more.",0
+Email,Campbell-Fuller,Highway fence,meganmurphy@example.org,The Highway fence is neither exceptional nor subpar in my experience.,0
+Email,Mckinney and Sons,Garden fence,tylerherrera@example.org,"Average quality, meets basic expectations.",0
+Email,Keller PLC,Bird Fence,weaverandrew@example.net,I have no strong feelings about the Bird Fence. It's just a Bird Fence.,0
+Email,Martinez Ltd,Highway fence,hicksjay@example.com,The Highway fence is neither impressive nor disappointing in my opinion.,0
+Email,"Butler, Clayton and Bailey",Highway fence,catherinekennedy@example.net,I neither like nor dislike the Highway fence; it's just a Highway fence.,0
+Email,Jackson-Torres,Chicken fence,ballardmichael@example.net,Excellent Chicken fence thanks my friend,1
+Email,Ferguson LLC,Garden fence,jenniferbarrett@example.net,"Just five stars as always, happy about it",1
+Email,Murray Group,Garden fence,frank36@example.org,I am frustrated with the Garden fence. It fails to meet expectations in terms of Garden fence quality.,-1
+Email,Fernandez-Fleming,Construction Wire,tanner88@example.net,"Acceptable performance, but not exceptional.",0
+Email,Ramirez-Sutton,Chicken fence,douglasgarcia@example.org,The Chicken fence is fantastic.,1
+Email,Chen-Dixon,Chicken fence,theodoreguzman@example.net,I am frustrated with the Chicken fence. It fails to meet expectations in terms of Chicken fence quality.,-1
+Email,"Gonzalez, Bennett and Parker",Highway fence,ayalamichelle@example.com,"Fairly average, nothing special to highlight.",0
+Email,Gonzalez-Collins,Chicken fence,elizabeth92@example.net,"The Chicken fence is excellent, and I would highly recommend it. You are the best",1
+Email,Guzman-Rivas,Chicken fence,perrydonald@example.com,Excellent Chicken fence thanks my friend,1
+Email,Taylor Inc,Construction Wire,hopkinstravis@example.com,"The Construction Wire is far below expectations, particularly in terms of its poor quality.",-1
+Email,Smith and Sons,Bird Fence,nathanlester@example.com,Encountered severe issues with the Bird Fence. Urgently need a resolution.,-1
+Email,"Morris, Martin and Barnes",Chicken fence,michaeldelgado@example.com,The experience here is terrible. Issues with the Chicken fence are unacceptable.,-1
+Email,Sims and Sons,Chicken fence,michael06@example.com,Thanls for the service,1
+Email,Evans-Rivas,Highway fence,zrogers@example.com,Excellent Highway fence thanks my friend,1
+Email,Kline Inc,Garden fence,masonlaura@example.com,"The Garden fence is top-notch, and the Garden fence exceeded my expectations.",1
+Email,Rodriguez LLC,Construction Wire,rodriguezmicheal@example.org,"It's a standard Construction Wire, and I don't have any particular praise or criticism.",0
+Email,Melton-Nelson,Chicken fence,littlemarcus@example.com,"Average quality, meets basic expectations.",0
+Email,"Graham, Smith and Thompson",Bird Fence,jordantaylor@example.com,"Need replacement, dissatisfiedThe Bird Fence disappointed me, particularly in terms of Bird Fence.Dont suit me at all",-1
+Email,"Cooper, Smith and Jordan",Bird Fence,krodgers@example.net,I feel indifferent about the Bird Fence and its features.,0
+Email,Sanchez-Singh,Bird Fence,fieldsjennifer@example.com,Excellent Bird Fence thanks my friend,1
+Email,"Murphy, Reynolds and Ward",Construction Wire,florescassidy@example.org,The Construction Wire is neither exceptional nor subpar in my experience.,0
+Email,"Blankenship, Holland and Day",Highway fence,mooneycarolyn@example.com,The Highway fence is not up to the mark. Expected much better quality.,-1
+Email,"Nielsen, Davis and Cole",Highway fence,williamskatie@example.com,"Just five stars as always, happy about it",1
+Email,Murray PLC,Highway fence,thahn@example.org,"Need replacement, dissatisfiedThe Highway fence disappointed me, particularly in terms of Highway fence.Dont suit me at all",-1
+Email,"Rivera, Gonzalez and Wright",Highway fence,wleon@example.net,I encountered issues with the Highway fence that need urgent attention.,-1
+Email,Davis Inc,Construction Wire,adamsrenee@example.com,I have no strong feelings about the Construction Wire. It's just a Construction Wire.,0
+Email,"Dixon, Murphy and Hampton",Chicken fence,tonybrady@example.org,Experiencing a lot of issues with the Chicken fence. Dissatisfied.,-1
+Email,Savage Ltd,Construction Wire,ymontgomery@example.org,I am frustrated with the Construction Wire. It fails to meet expectations in terms of Construction Wire quality.,-1
+Email,Santiago Ltd,Construction Wire,moorejustin@example.net,Excellent Construction Wire thanks my friend,1
+Email,Zamora PLC,Chicken fence,masonhodge@example.net,"It's fine, but I expected a bit more.",0
+Email,Reilly and Sons,Construction Wire,jerry47@example.org,The Construction Wire is okay; neither good nor bad.,0
+Email,Scott Ltd,Garden fence,iconley@example.com,I appreciate the Garden fence and the exceptional service provided.,1
+Email,Williams Group,Highway fence,donaldhayes@example.com,Thanls for the service,1
+Email,"Houston, West and Wheeler",Chicken fence,fharper@example.org,The Chicken fence is not up to the mark. Expected much better quality.,-1
+Email,Thompson-Gutierrez,Highway fence,vincent31@example.org,"The Highway fence is average, and I don't have any strong opinions.",0
+Email,Peterson-Torres,Garden fence,mendezjeremy@example.net,"The Garden fence didn't meet my expectations, and I'm dissatisfied. Very low quality",-1
+Email,Moore-Henry,Chicken fence,bcortez@example.net,I neither like nor dislike the Chicken fence; it's just a Chicken fence.,0
+Email,Brennan-Silva,Highway fence,cschroeder@example.org,I'm delighted with the Highway fence and the overall experience.Thanks,1
+Email,Green and Sons,Chicken fence,elizabethbooker@example.net,"Damaged here, asking refund",-1
+Email,Schultz Group,Construction Wire,kingsean@example.com,"Decent enough, but lacks a wow factor.",0
+Email,"Smith, Mann and Oliver",Bird Fence,thompsonmichael@example.com,"The Bird Fence is excellent, and I would highly recommend it. You are the best",1
+Email,Duke PLC,Garden fence,nathaniel68@example.com,Received a damaged Garden fence. Requesting a refund immediately.,-1
+Email,Wheeler-Kim,Bird Fence,cody23@example.com,I appreciate the Bird Fence and the exceptional service provided.,1
+Email,Herrera Group,Highway fence,mary87@example.net,I encountered issues with the Highway fence that need urgent attention.,-1
+Email,"Lara, Shaw and Moore",Garden fence,wrightamber@example.com,"Top quality received, love it",1
+Email,Cox-Kelly,Garden fence,dgreen@example.org,"Just five stars as always, happy about it",1
+Email,"Odom, Smith and Parks",Construction Wire,kherring@example.net,Thanls for the service,1
+Email,"Thomas, Riley and Matthews",Bird Fence,cbailey@example.net,"Top quality received, love it",1
+Email,Jackson LLC,Bird Fence,marthale@example.net,"The Bird Fence is superb, and I commend the team for their efforts.",1
+Email,Mills Inc,Bird Fence,wileysteven@example.com,I have no strong feelings about the Bird Fence. It's just a Bird Fence.,0
+Email,Davis-Wright,Garden fence,ryanmccoy@example.com,"Definitely going to order again, thanks",1
+Email,Martin-Baker,Highway fence,manningkaren@example.net,Unhappy with both the Highway fence and the service level. Requesting a refund.,-1
+Email,Allen-Salinas,Garden fence,tgibson@example.org,I encountered issues with the Garden fence that need urgent attention.,-1
+Email,"Lyons, Gutierrez and Bradley",Garden fence,ufitzgerald@example.net,The Garden fence is outstanding! I am extremely satisfied with the Garden fence.,1
+Email,Reed-Thompson,Chicken fence,laurenrice@example.org,"The Chicken fence is average, and I don't have any strong opinions.",0
+Email,"Rodriguez, Morris and Hughes",Highway fence,jwarner@example.com,A lot of issues,-1
+Email,Perez-Smith,Chicken fence,john46@example.org,A lot of issues,-1
+Email,Mcclure-Pope,Highway fence,garrettangela@example.com,"It's fine, but I expected a bit more.",0
+Email,Whitehead PLC,Construction Wire,vjohnson@example.com,Here is very bad,-1
+Email,Jackson-Stephenson,Chicken fence,hkaiser@example.com,"The Chicken fence didn't meet my expectations, and I'm dissatisfied. Very low quality",-1
+Email,"Thomas, Ryan and Brennan",Garden fence,cpham@example.com,Regretting my purchase of the Garden fence. Issues with Garden fence are unacceptable.,-1
+Email,"Gutierrez, Martinez and Miranda",Chicken fence,mariahenry@example.net,"Acceptable performance, but not exceptional.",0
+Email,Mejia Inc,Chicken fence,sonyabarnett@example.net,Sorry . It doesn't appeal to my preferences.,-1
+Email,Haynes-Ramirez,Chicken fence,yedwards@example.org,"The Chicken fence is lacking, especially when it comes to its quality. Extremely dissatisfied.",-1
+Email,"Stafford, Gonzales and Phillips",Construction Wire,wellis@example.net,"Top quality received, love it",1
+Email,"Bean, Ballard and Gallegos",Bird Fence,ellisshannon@example.com,The Bird Fence is okay; neither good nor bad.,0
+Email,Rosario and Sons,Highway fence,ronaldcontreras@example.com,I appreciate the Highway fence and the exceptional service provided.,1
+Email,"Moore, Gamble and Carter",Bird Fence,sonya50@example.org,The experience here is terrible. Issues with the Bird Fence are unacceptable.,-1
+Email,Kelly-Burton,Highway fence,stephanieburns@example.com,"The Highway fence is top-notch, and the Highway fence exceeded my expectations.",1
+Email,Campbell Inc,Garden fence,larrycrawford@example.org,"The Garden fence is lacking, especially when it comes to its quality. Extremely dissatisfied.",-1
+Email,"Williams, Barrera and Brooks",Construction Wire,kevinramirez@example.net,Excellent Construction Wire thanks my friend,1
+Email,"Swanson, Smith and Francis",Bird Fence,melissayoung@example.org,"Need replacement, dissatisfiedThe Bird Fence disappointed me, particularly in terms of Bird Fence.Dont suit me at all",-1
+Email,Peterson-Thompson,Chicken fence,rosedavid@example.com,I encountered issues with the Chicken fence that need urgent attention.,-1
+Email,Rose LLC,Highway fence,reedchristina@example.net,Excellent Highway fence thanks my friend,1
+Email,Simon-Miller,Bird Fence,gadams@example.org,The Bird Fence is neither impressive nor disappointing in my opinion.,0
+Email,Rojas-Perez,Bird Fence,dana93@example.com,"The Bird Fence is lacking, especially when it comes to its quality. Extremely dissatisfied.",-1
+Email,Yang-Houston,Garden fence,christina74@example.net,The experience here is terrible. Issues with the Garden fence are unacceptable.,-1
+Email,Wolfe PLC,Chicken fence,rodriguezjeffrey@example.com,I feel indifferent about the Chicken fence and its features.,0
+Email,"Schwartz, Hart and Herrera",Bird Fence,joshua36@example.net,I'm neutral about the Bird Fence and its performance.,0
+Email,Whitaker-Martin,Highway fence,djohnson@example.org,The Highway fence is neither impressive nor disappointing in my opinion.,0
+Email,"Jones, Brooks and Richards",Bird Fence,pamelabush@example.com,I have no strong feelings about the Bird Fence. It's just a Bird Fence.,0
+Email,Wallace Ltd,Garden fence,rodriguezgary@example.com,I'm indifferent to the Garden fence and its functionalities.,0
+Email,Hopkins-Collins,Highway fence,tgutierrez@example.net,The Highway fence is neither impressive nor disappointing in my opinion.,0
+Email,"Boyle, Nielsen and Lee",Bird Fence,ronaldsmith@example.net,The Bird Fence is neither impressive nor disappointing in my opinion.,0
+Email,Carter and Sons,Chicken fence,jason46@example.org,"The Chicken fence is superb, and I commend the team for their efforts.",1
+Email,Hudson LLC,Construction Wire,yrodriguez@example.com,"Top quality received, love it",1
+Email,"Murray, Farrell and Shelton",Highway fence,wilsonhector@example.net,Here is very bad,-1
+Email,Smith Group,Highway fence,ashleyrogers@example.org,"Decent enough, but lacks a wow factor.",0
+Email,"Ball, Contreras and Ross",Chicken fence,justingross@example.org,I am frustrated with the Chicken fence. It fails to meet expectations in terms of Chicken fence quality.,-1
+Email,"Phillips, Brown and Hahn",Chicken fence,alexandercharles@example.com,"It's fine, but I expected a bit more.",0
+Email,"Mckenzie, Craig and Lopez",Garden fence,billyhoward@example.com,"Decent enough, but lacks a wow factor.",0
+Email,"Salazar, Stewart and Velez",Chicken fence,umullins@example.com,The Chicken fence is okay; neither good nor bad.,0
+Email,Perez-Wilson,Construction Wire,angelica34@example.org,"Average quality, meets basic expectations.",0
+Email,Bender-Morton,Construction Wire,bellnancy@example.net,I am frustrated with the Construction Wire. It fails to meet expectations in terms of Construction Wire quality.,-1
+Email,Kaufman-Maddox,Bird Fence,fernandoarnold@example.net,The Bird Fence is fantastic.,1
+Email,"Phillips, Walters and Johnson",Construction Wire,sosagregg@example.com,I'm very impressed with the Construction Wire and the level of service received.Thank you,1
+Email,"Henderson, Griffin and Hunter",Bird Fence,katherine32@example.net,"Acceptable performance, but not exceptional.",0
+Email,Solomon Ltd,Bird Fence,anthonymoon@example.net,"Sorry, Its just bad qualityThe Bird Fence needs improvement, especially in terms of Bird Fence.Quality not good",-1
+Email,"Larsen, White and Reynolds",Bird Fence,thomasrodriguez@example.com,I neither like nor dislike the Bird Fence; it's just a Bird Fence.,0
+Email,Dodson Group,Garden fence,patrickwu@example.com,"Top quality received, love it",1
+Email,Ross-Wood,Bird Fence,samanthamunoz@example.org,I appreciate the Bird Fence and the exceptional service provided.,1
+Email,Perez-Anderson,Chicken fence,jgomez@example.net,The Chicken fence is okay; neither good nor bad.,0
+Email,"Holland, Walsh and Stevens",Garden fence,nicholas57@example.net,I'm not happy with the Garden fence and the level of service provided. I request a refund,-1
+Email,English-Ramirez,Highway fence,zburns@example.com,Disappointed as the Highway fence did not meet expectations. Very poor quality.,-1
+Email,"Estes, Burton and Flores",Highway fence,jwilliams@example.net,I love the Highway fence! It exceeds my expectations.,1
+Email,Anderson-Garcia,Construction Wire,kbrown@example.org,"The Construction Wire is top-notch, and the Construction Wire exceeded my expectations.",1
+Email,Wright-Whitaker,Garden fence,joshua79@example.com,The Garden fence is neither exceptional nor subpar in my experience.,0
+Email,Mason and Sons,Construction Wire,brian42@example.net,The Construction Wire is fantastic.,1
+Email,Williams LLC,Highway fence,fjohnston@example.org,The Highway fence is not up to the mark. Expected much better quality.,-1
+Email,"Thompson, Richardson and Sanchez",Highway fence,bgreen@example.com,This Highway fence is a disappointment. The quality is subpar.,-1
+Email,"Wagner, Sloan and Weaver",Garden fence,dustincruz@example.org,I'm neutral about the Garden fence and its performance.,0
+Email,Goodwin LLC,Garden fence,oliviafletcher@example.org,Sorry . It doesn't appeal to my preferences.,-1
+Email,"Hernandez, Hoffman and Gregory",Construction Wire,nbrooks@example.org,The Construction Wire is okay; neither good nor bad.,0
+Email,"Buckley, David and Adams",Garden fence,ghenry@example.com,The Garden fence is okay; neither good nor bad.,0
+Email,Myers-Coleman,Bird Fence,kylesullivan@example.com,"Just five stars as always, happy about it",1
+Email,"Scott, Mckinney and Dunn",Highway fence,fmartin@example.com,Disappointed as the Highway fence did not meet expectations. Very poor quality.,-1
+Email,Crawford-Rodriguez,Chicken fence,alex05@example.net,"The Chicken fence is excellent, and I would highly recommend it. You are the best",1
+Email,Camacho PLC,Construction Wire,fosterelizabeth@example.net,Encountered severe issues with the Construction Wire. Urgently need a resolution.,-1
+Email,"Perry, Monroe and Bailey",Construction Wire,chanbarbara@example.org,The Construction Wire is fantastic.,1
+Email,Decker-Gamble,Bird Fence,thomasleslie@example.net,Here is very bad,-1
+Email,Dalton-Smith,Garden fence,nunezrichard@example.org,"Top quality received, love it",1
+Email,"Powell, Harrell and Park",Construction Wire,stephanielong@example.net,"The Construction Wire is excellent, and I would highly recommend it. You are the best",1
+Email,"Yoder, Richards and Ryan",Construction Wire,ericlewis@example.org,I'm delighted with the Construction Wire and the overall experience.Thanks,1
+Email,"Parsons, Barajas and Johnson",Garden fence,thomascooper@example.com,The Garden fence is okay; neither good nor bad.,0
+Email,"Davis, Martin and Martin",Bird Fence,parkerjustin@example.org,The Bird Fence is not up to the mark. Expected much better quality.,-1
+Email,"Owens, Wallace and Brown",Garden fence,pricejeffrey@example.com,I feel indifferent about the Garden fence and its features.,0
+Email,Sanders-Brown,Garden fence,jamie27@example.com,"Definitely going to order again, thanks",1
+Email,Johnson-Jones,Chicken fence,lthompson@example.org,I regret my purchase of the Chicken fence due to Chicken fence problems.,-1
+Email,"Griffin, Arellano and Cohen",Highway fence,smithrobert@example.net,I dont like it,-1
+Email,Ritter Ltd,Construction Wire,kortiz@example.net,I am frustrated with the Construction Wire. It fails to meet expectations in terms of Construction Wire quality.,-1
+Email,King and Sons,Bird Fence,dixonmelissa@example.org,This Bird Fence is a disappointment. The quality is subpar.,-1
+Email,"Harrell, Ballard and Hamilton",Chicken fence,cruzkevin@example.net,I'm neutral about the Chicken fence and its performance.,0
+Email,Carroll-Brown,Construction Wire,tammy60@example.org,"It's fine, but I expected a bit more.",0
+Email,Gates-Hays,Chicken fence,christinekemp@example.net,I'm indifferent to the Chicken fence and its functionalities.,0
+Email,"Moyer, Estrada and Obrien",Garden fence,phardy@example.org,"Fairly average, nothing special to highlight.",0
+Email,Garcia Inc,Bird Fence,vhudson@example.com,I'm neutral about the Bird Fence and its performance.,0
+Email,Fields LLC,Bird Fence,amanda39@example.com,"Definitely going to order again, thanks",1
+Email,Cruz-Martinez,Construction Wire,zhart@example.org,The Construction Wire is outstanding! I am extremely satisfied with the Construction Wire.,1
+Email,Moore-Brown,Highway fence,eblake@example.net,The Highway fence is neither impressive nor disappointing in my opinion.,0
+Email,Hamilton and Sons,Highway fence,fosteranthony@example.org,"Definitely going to order again, thanks",1
+Email,Scott PLC,Highway fence,mbrock@example.org,"Just five stars as always, happy about it",1
+Email,"Torres, Harris and Turner",Chicken fence,jonathanharmon@example.net,I'm delighted with the Chicken fence and the overall experience.Thanks,1
+Email,"White, Smith and Jones",Construction Wire,courtneycampbell@example.org,"It's fine, but I expected a bit more.",0
+Email,Blair and Sons,Construction Wire,david75@example.org,Thanls for the service,1
+Email,Ruiz PLC,Garden fence,hfisher@example.net,"Fairly average, nothing special to highlight.",0
+Email,Reeves-Boyd,Chicken fence,csmith@example.net,"The Chicken fence is far below expectations, particularly in terms of its poor quality.",-1
+Email,Smith-Hall,Bird Fence,palmersharon@example.net,"Definitely going to order again, thanks",1
+Email,"Barnes, Ewing and Johnson",Highway fence,qbarnett@example.org,Thanls for the service,1
+Email,Stephens Group,Construction Wire,vramirez@example.org,The Construction Wire is okay; neither good nor bad.,0
+Email,Adams LLC,Construction Wire,mandrews@example.com,"I am thrilled with the Construction Wire. It's truly remarkable, happy",1
+Email,Santiago-Brandt,Construction Wire,jgreen@example.com,I'm indifferent to the Construction Wire and its functionalities.,0
+Email,"Webb, Wilson and Espinoza",Highway fence,erinnguyen@example.com,"It's a standard Highway fence, and I don't have any particular praise or criticism.",0
+Email,"Bennett, Graham and Irwin",Chicken fence,danielflores@example.net,I'm neutral about the Chicken fence and its performance.,0
+Email,Jenkins-Lee,Chicken fence,kristenrichardson@example.com,I dont like it,-1
+Email,Duncan-Rios,Bird Fence,icervantes@example.com,"The Bird Fence didn't meet my expectations, and I'm dissatisfied. Very low quality",-1
+Email,"Barrera, Peterson and Bruce",Highway fence,bmartinez@example.org,"Fairly average, nothing special to highlight.",0
+Email,Harrison-Tate,Bird Fence,lindsey80@example.com,Sorry . It doesn't appeal to my preferences.,-1
+Email,Walters-Jones,Garden fence,melissawilson@example.com,Extremely dissatisfied with the Garden fence and the overall experience.,-1
+Email,Dennis LLC,Garden fence,michaelgilbert@example.org,"The Garden fence didn't meet my expectations, and I'm dissatisfied. Very low quality",-1
+Email,Young-Lewis,Highway fence,ndelgado@example.com,I feel indifferent about the Highway fence and its features.,0
+Email,Wall Inc,Bird Fence,douglas17@example.com,"The Bird Fence is top-notch, and the Bird Fence exceeded my expectations.",1
+Email,"Williams, Riggs and Hodge",Bird Fence,millerdarrell@example.com,I'm delighted with the Bird Fence and the overall experience.Thanks,1
+Email,Figueroa-Jones,Garden fence,rileydustin@example.com,"Just five stars as always, happy about it",1
+Email,"Roy, Mays and Hernandez",Chicken fence,rivasnicolas@example.org,Need a replacement for the Chicken fence. Highly dissatisfied with the purchase.,-1
+Email,White LLC,Garden fence,norriswendy@example.org,I feel indifferent about the Garden fence and its features.,0
+Email,Garcia Group,Highway fence,joyceprice@example.org,"The Highway fence didn't meet my expectations, and I'm dissatisfied. Very low quality",-1
+Email,Fisher-Hicks,Bird Fence,stephanie21@example.net,I feel indifferent about the Bird Fence and its features.,0
+Email,"Salas, Hill and Burgess",Construction Wire,jessicajones@example.org,Unhappy with both the Construction Wire and the service level. Requesting a refund.,-1
+Email,Knox-Ramsey,Construction Wire,uking@example.com,I regret my purchase of the Construction Wire due to Construction Wire problems.,-1
+Email,"George, Wood and Adams",Bird Fence,ryanwatts@example.org,I'm neutral about the Bird Fence and its performance.,0
+Email,Larson Inc,Chicken fence,perezjennifer@example.net,"Sorry, Its just bad qualityThe Chicken fence needs improvement, especially in terms of Chicken fence.Quality not good",-1
+Email,Kennedy-Roberson,Chicken fence,alvareztammy@example.org,"It's a standard Chicken fence, and I don't have any particular praise or criticism.",0
+Email,Clark Group,Bird Fence,vkelley@example.com,I am disappointed with the Bird Fence. It falls short in terms of Bird Fence.,-1
+Email,Sullivan Ltd,Highway fence,charles81@example.com,This Highway fence is a disappointment. The quality is subpar.,-1
+Email,"Fleming, Suarez and Graham",Garden fence,smithjoseph@example.com,I'm very impressed with the Garden fence and the level of service received.Thank you,1
+Email,Figueroa-Patterson,Chicken fence,amy84@example.org,I'm not happy with the Chicken fence and the level of service provided. I request a refund,-1
+Email,Vargas-Bauer,Garden fence,xhanson@example.com,I have no strong feelings about the Garden fence. It's just a Garden fence.,0
+Email,Sparks Group,Construction Wire,elizabethfreeman@example.com,"The Construction Wire is lacking, especially when it comes to its quality. Extremely dissatisfied.",-1
+Email,"Young, Matthews and Neal",Bird Fence,davisjohn@example.com,"The Bird Fence is not good, and I expected better quality.",-1
+Email,Trujillo-Reeves,Highway fence,christina75@example.org,"The Highway fence didn't meet my expectations, and I'm dissatisfied. Very low quality",-1
+Email,Ingram-Bradley,Bird Fence,oyoung@example.com,"Top quality received, love it",1
+Email,Cervantes-Vega,Bird Fence,bryanlynn@example.net,I have no strong feelings about the Bird Fence. It's just a Bird Fence.,0
+Email,Young Inc,Bird Fence,greenejoseph@example.com,The Bird Fence is okay; neither good nor bad.,0
+Email,Austin PLC,Highway fence,usmith@example.net,"The Highway fence is excellent, and I would highly recommend it. You are the best",1
+Email,Morris-Rodriguez,Chicken fence,combsjonathan@example.net,Unhappy with both the Chicken fence and the service level. Requesting a refund.,-1
+Email,"Bush, Le and Benton",Chicken fence,halljennifer@example.net,"Fairly average, nothing special to highlight.",0
+Email,Whitney and Sons,Construction Wire,jordanandrea@example.org,Experiencing a lot of issues with the Construction Wire. Dissatisfied.,-1
+Email,"Watson, Booker and Maxwell",Garden fence,dosborne@example.com,"Fairly average, nothing special to highlight.",0
+Email,Miller-Lin,Construction Wire,sbaker@example.org,I love the Construction Wire! It exceeds my expectations.,1
+Email,"Chandler, Bishop and Dunn",Garden fence,mary42@example.net,"The Garden fence is average, and I don't have any strong opinions.",0
+Email,Simmons-Cooper,Construction Wire,vanessaguzman@example.org,I appreciate the Construction Wire and the exceptional service provided.,1
+Email,Ward Ltd,Construction Wire,kennethmclean@example.com,I appreciate the Construction Wire and the exceptional service provided.,1
+Email,"Ross, Weiss and Martinez",Chicken fence,rosebrittney@example.net,Here is very bad,-1
+Email,Hopkins Group,Chicken fence,wolfejulie@example.org,Extremely dissatisfied with the Chicken fence and the overall experience.,-1
+Email,"Smith, Stephenson and Anderson",Construction Wire,justindouglas@example.net,The Construction Wire is neither exceptional nor subpar in my experience.,0
+Email,Ware-Gallegos,Bird Fence,margaret91@example.net,Unhappy with both the Bird Fence and the service level. Requesting a refund.,-1
+Email,"Prince, Stephenson and Green",Chicken fence,alexander91@example.org,"Definitely going to order again, thanks",1
+Email,"Wright, Cook and Young",Construction Wire,nsolomon@example.org,Excellent Construction Wire thanks my friend,1
+Email,"Nelson, Hardin and Orozco",Garden fence,lbecker@example.org,Received a damaged Garden fence. Requesting a refund immediately.,-1
+Email,"Elliott, Henry and Burnett",Construction Wire,cfigueroa@example.com,"Acceptable performance, but not exceptional.",0
+Email,Baker-Harris,Chicken fence,maguilar@example.net,A lot of issues,-1
+Email,"Alvarez, Harris and Thompson",Highway fence,lschneider@example.net,I love the Highway fence! It exceeds my expectations.,1
+Email,Robinson PLC,Highway fence,millermichelle@example.net,I love the Highway fence! It exceeds my expectations.,1
+Email,Martinez-Rodgers,Highway fence,krystalsanchez@example.net,I feel indifferent about the Highway fence and its features.,0
+Email,Lambert and Sons,Garden fence,walkeralexis@example.net,I love the Garden fence! It exceeds my expectations.,1
+Email,"Rodgers, Mcdowell and Dunn",Garden fence,amorris@example.org,This Garden fence is a disappointment. The quality is subpar.,-1
+Email,Kent LLC,Chicken fence,tamararoth@example.com,"Average quality, meets basic expectations.",0
+Email,"Douglas, Little and Lam",Bird Fence,ybaxter@example.net,"Need replacement, dissatisfiedThe Bird Fence disappointed me, particularly in terms of Bird Fence.Dont suit me at all",-1
+Email,Williams-Gibson,Construction Wire,sherylmedina@example.org,I appreciate the Construction Wire and the exceptional service provided.,1
+Email,"Bullock, Robbins and Webster",Bird Fence,jorge70@example.com,Excellent Bird Fence thanks my friend,1
+Email,Wilkins Group,Bird Fence,jasonharvey@example.net,I'm very impressed with the Bird Fence and the level of service received.Thank you,1
+Email,Odonnell-Moran,Construction Wire,riveratimothy@example.org,The Construction Wire is neither exceptional nor subpar in my experience.,0
+Email,Crawford LLC,Garden fence,crystalblanchard@example.com,I'm indifferent to the Garden fence and its functionalities.,0
+Email,Martinez and Sons,Highway fence,lynn61@example.net,I neither like nor dislike the Highway fence; it's just a Highway fence.,0
+Email,Roberson Inc,Garden fence,amanda88@example.com,The experience here is terrible. Issues with the Garden fence are unacceptable.,-1
+Email,"Hernandez, Molina and Smith",Bird Fence,thomasjeffrey@example.org,"The Bird Fence is excellent, and I would highly recommend it. You are the best",1
+Email,Johnson LLC,Bird Fence,sandra36@example.net,"The Bird Fence is lacking, especially when it comes to its quality. Extremely dissatisfied.",-1
+Email,"Bender, Compton and Randall",Garden fence,aphillips@example.org,I'm delighted with the Garden fence and the overall experience.Thanks,1
+Email,"Ingram, Middleton and Hodges",Garden fence,jacobcox@example.org,I neither like nor dislike the Garden fence; it's just a Garden fence.,0
+Email,Davis-Erickson,Garden fence,zclark@example.org,"It's a standard Garden fence, and I don't have any particular praise or criticism.",0
+Email,"Elliott, James and Carpenter",Bird Fence,ronniehubbard@example.com,"The Bird Fence didn't meet my expectations, and I'm dissatisfied. Very low quality",-1
+Email,Williams-White,Highway fence,ucarpenter@example.com,I'm very impressed with the Highway fence and the level of service received.Thank you,1
+Email,"Allen, Ortiz and Howell",Highway fence,owensjulia@example.net,"Acceptable performance, but not exceptional.",0
+Email,Carroll-Mckay,Bird Fence,perezdavid@example.net,"The Bird Fence is superb, and I commend the team for their efforts.",1
+Email,"Harrison, Williams and Sullivan",Garden fence,elizabethturner@example.net,I appreciate the Garden fence and the exceptional service provided.,1
+Email,Williams LLC,Garden fence,laguirre@example.org,I love the Garden fence! It exceeds my expectations.,1
+Email,Peck-Hall,Highway fence,jaime75@example.com,The Highway fence is neither impressive nor disappointing in my opinion.,0
+Email,Lowe-Buchanan,Bird Fence,jenniferdudley@example.com,I regret my purchase of the Bird Fence due to Bird Fence problems.,-1
+Email,Todd-Gardner,Garden fence,twoods@example.com,The Garden fence is neither impressive nor disappointing in my opinion.,0
+Email,Fuentes Ltd,Highway fence,juan81@example.com,Disappointed as the Highway fence did not meet expectations. Very poor quality.,-1
+Email,Wilson Ltd,Construction Wire,melissagrant@example.net,The Construction Wire is outstanding! I am extremely satisfied with the Construction Wire.,1
+Email,"Cole, Ford and Jackson",Garden fence,katiemorgan@example.org,I'm neutral about the Garden fence and its performance.,0
+Email,Bowers-Contreras,Garden fence,michaeldalton@example.com,"Need replacement, dissatisfiedThe Garden fence disappointed me, particularly in terms of Garden fence.Dont suit me at all",-1
+Email,Torres Ltd,Bird Fence,kennedymichael@example.net,"Top quality received, love it",1
+Email,"White, Mills and Brown",Garden fence,hallcarol@example.org,"Definitely going to order again, thanks",1
+Email,Grimes and Sons,Chicken fence,lawsonkenneth@example.com,"The Chicken fence is superb, and I commend the team for their efforts.",1
+Email,Stephens-Walker,Highway fence,gonzalezryan@example.com,"The Highway fence is top-notch, and the Highway fence exceeded my expectations.",1
+Email,"Anthony, Boyer and Rosario",Bird Fence,vhenderson@example.org,Thanls for the service,1
+Email,Sullivan and Sons,Garden fence,bgood@example.net,Here is very bad,-1
+Email,Williams-Jones,Construction Wire,angelashaw@example.org,"Need replacement, dissatisfiedThe Construction Wire disappointed me, particularly in terms of Construction Wire.Dont suit me at all",-1
+Email,Black-Hernandez,Highway fence,angela21@example.org,"Okay product, meets basic requirements.",0
+Email,"Hayes, Crawford and Sullivan",Chicken fence,cunninghamphillip@example.com,"It's fine, but I expected a bit more.",0
+Email,Pollard Ltd,Bird Fence,prestonchristopher@example.com,"Top quality received, love it",1
+Email,"Shepherd, Floyd and Moran",Chicken fence,iwright@example.org,I'm neutral about the Chicken fence and its performance.,0
+Email,Shepherd Group,Highway fence,lprince@example.net,"Average quality, meets basic expectations.",0
+Email,"Kennedy, Lee and Harris",Construction Wire,radams@example.com,"The Construction Wire is top-notch, and the Construction Wire exceeded my expectations.",1
+Email,Jones-Robinson,Garden fence,george04@example.net,"The Garden fence is average, and I don't have any strong opinions.",0
+Email,Sanchez-Mccarty,Chicken fence,mary98@example.com,I have no strong feelings about the Chicken fence. It's just a Chicken fence.,0
+Email,Price-Perez,Garden fence,jesse78@example.org,I have no strong feelings about the Garden fence. It's just a Garden fence.,0
+Email,"Sullivan, Harris and Harris",Construction Wire,shannonware@example.com,The Construction Wire is outstanding! I am extremely satisfied with the Construction Wire.,1
+Email,Gonzalez-Scott,Bird Fence,lauren04@example.org,"The Bird Fence is average, and I don't have any strong opinions.",0
+Email,"Velazquez, Maldonado and King",Bird Fence,daniel57@example.org,The Bird Fence is neither impressive nor disappointing in my opinion.,0
+Email,"Watkins, Carroll and Jones",Garden fence,staceymack@example.com,I have no strong feelings about the Garden fence. It's just a Garden fence.,0
+Email,Hodges LLC,Chicken fence,porterjeremy@example.org,"Top quality received, love it",1
+Email,Shaw Inc,Garden fence,donna10@example.net,"The Garden fence is average, and I don't have any strong opinions.",0
+Email,Wade-Bowen,Construction Wire,angelaroberts@example.net,"The Construction Wire is lacking, especially when it comes to its quality. Extremely dissatisfied.",-1
+Email,"Carpenter, Olsen and Hunter",Highway fence,fordmichael@example.net,"The Highway fence is excellent, and I would highly recommend it. You are the best",1
+Email,"Porter, Underwood and Miller",Construction Wire,greenelisa@example.org,Regretting my purchase of the Construction Wire. Issues with Construction Wire are unacceptable.,-1
+Email,Dougherty Inc,Bird Fence,aosborn@example.net,Sorry . It doesn't appeal to my preferences.,-1
+Email,"Thompson, Johnson and Walker",Construction Wire,reneemason@example.com,I'm neutral about the Construction Wire and its performance.,0
+Email,Cole-Chen,Construction Wire,longjessica@example.org,The Construction Wire is neither exceptional nor subpar in my experience.,0
+Email,Johnson-Barker,Highway fence,elizabeth79@example.com,"Damaged here, asking refund",-1
+Email,Hayden LLC,Bird Fence,lopezjoseph@example.org,"The Bird Fence didn't meet my expectations, and I'm dissatisfied. Very low quality",-1
+Email,"Lewis, Smith and Greer",Chicken fence,stephanie64@example.com,Unhappy with both the Chicken fence and the service level. Requesting a refund.,-1
+Email,Thomas and Sons,Chicken fence,snelson@example.org,I am disappointed with the Chicken fence. It falls short in terms of Chicken fence.,-1
+Email,Garcia Ltd,Highway fence,anna62@example.org,I'm indifferent to the Highway fence and its functionalities.,0
+Email,"Chavez, Nunez and Davila",Bird Fence,ymoore@example.net,"The Bird Fence is not good, and I expected better quality.",-1
+Email,"Baker, Mccoy and Clayton",Chicken fence,wyoung@example.com,I'm very impressed with the Chicken fence and the level of service received.Thank you,1
+Email,Martinez PLC,Bird Fence,jennifer74@example.net,"Decent enough, but lacks a wow factor.",0
+Email,"Krause, Burns and James",Bird Fence,anna77@example.com,"Acceptable performance, but not exceptional.",0
+Email,"Cross, Phillips and Smith",Bird Fence,amoreno@example.com,"The Bird Fence is excellent, and I would highly recommend it. You are the best",1
+Email,Fuentes-Alvarado,Bird Fence,richard71@example.org,"It's a standard Bird Fence, and I don't have any particular praise or criticism.",0
+Email,"Mcdonald, White and Coleman",Chicken fence,wallacemark@example.com,"The Chicken fence is far below expectations, particularly in terms of its poor quality.",-1
+Email,"Ortiz, Thomas and Walker",Construction Wire,cwong@example.org,"Decent enough, but lacks a wow factor.",0
+Email,Ray-Chavez,Chicken fence,ericacamacho@example.com,"The Chicken fence is lacking, especially when it comes to its quality. Extremely dissatisfied.",-1
+Email,"Dunn, Fischer and Hoffman",Bird Fence,nburns@example.com,I'm very impressed with the Bird Fence and the level of service received.Thank you,1
+Email,Mitchell Inc,Bird Fence,kathryn16@example.com,I'm neutral about the Bird Fence and its performance.,0
+Email,Cole-Patrick,Bird Fence,duranandrew@example.com,I'm very impressed with the Bird Fence and the level of service received.Thank you,1
+Email,Watkins-Combs,Highway fence,kscott@example.net,The experience here is terrible. Issues with the Highway fence are unacceptable.,-1
+Email,"Castaneda, Scott and Baird",Bird Fence,moorematthew@example.org,The Bird Fence is neither impressive nor disappointing in my opinion.,0
+Email,Ayala PLC,Bird Fence,hvincent@example.com,"Just five stars as always, happy about it",1
+Email,Moore Inc,Bird Fence,nicoleelliott@example.com,Received a damaged Bird Fence. Requesting a refund immediately.,-1
+Email,Mueller-Smith,Garden fence,jeffrey07@example.com,This Garden fence is a disappointment. The quality is subpar.,-1
+Email,Mcdaniel-Gonzales,Chicken fence,courtney96@example.org,The Chicken fence is okay; neither good nor bad.,0
+Email,Lewis-Haas,Construction Wire,powelljasmine@example.com,"Damaged here, asking refund",-1
+Email,Johnson LLC,Highway fence,carol32@example.net,"The Highway fence is top-notch, and the Highway fence exceeded my expectations.",1
+Email,Curtis and Sons,Chicken fence,peter98@example.com,"The Chicken fence is average, and I don't have any strong opinions.",0
+Email,Molina-Miller,Garden fence,longkatherine@example.org,Experiencing a lot of issues with the Garden fence. Dissatisfied.,-1
+Email,"Pena, Meyers and Reynolds",Construction Wire,mrodriguez@example.net,Here is very bad,-1
+Email,Turner PLC,Garden fence,weisskatherine@example.com,Need a replacement for the Garden fence. Highly dissatisfied with the purchase.,-1
+Email,"Roberts, Woodward and Green",Garden fence,porterjohn@example.net,The experience here is terrible. Issues with the Garden fence are unacceptable.,-1
+Email,Carr-Williams,Construction Wire,lance90@example.net,I neither like nor dislike the Construction Wire; it's just a Construction Wire.,0
+Email,Daniels-Stewart,Highway fence,amywilliams@example.com,Received a damaged Highway fence. Requesting a refund immediately.,-1
+Email,Gilbert-Brown,Bird Fence,sarahgreen@example.org,The Bird Fence is neither impressive nor disappointing in my opinion.,0
+Email,Hernandez Group,Chicken fence,brookscandice@example.com,"I am thrilled with the Chicken fence. It's truly remarkable, happy",1
+Email,"Kent, Walton and Harris",Garden fence,tgray@example.net,"Acceptable performance, but not exceptional.",0
+Email,Chavez-Haas,Highway fence,fcarroll@example.com,The Highway fence is neither impressive nor disappointing in my opinion.,0
+Email,"Norris, Dixon and Crawford",Chicken fence,msimmons@example.net,"Top quality received, love it",1
+Email,"Scott, Young and Aguilar",Highway fence,guerrerokaren@example.net,I am frustrated with the Highway fence. It fails to meet expectations in terms of Highway fence quality.,-1
+Email,Reed-Wu,Bird Fence,stephaniebest@example.org,"Damaged here, asking refund",-1
+Email,Graham and Sons,Highway fence,luisflores@example.org,I feel indifferent about the Highway fence and its features.,0
+Email,Medina LLC,Garden fence,ithomas@example.org,I'm not happy with the Garden fence and the level of service provided. I request a refund,-1
+Email,Lopez-Diaz,Garden fence,tommygardner@example.org,"Just five stars as always, happy about it",1
+Email,Mccullough Ltd,Construction Wire,ingramsonya@example.net,I'm dissatisfied with the Construction Wire and the overall experience. ,-1
+Email,Palmer Inc,Construction Wire,odonnelljennifer@example.org,The Construction Wire is fantastic.,1
+Email,"Robinson, Krause and Pittman",Garden fence,javier13@example.org,I regret my purchase of the Garden fence due to Garden fence problems.,-1
+Email,"Baird, Griffin and Spence",Bird Fence,ncarter@example.com,"It's fine, but I expected a bit more.",0
+Email,Jensen Ltd,Construction Wire,davistiffany@example.com,Thanls for the service,1
+Email,Vang-Case,Highway fence,brian90@example.net,"It's fine, but I expected a bit more.",0
+Email,Burch Inc,Construction Wire,michaelbarnett@example.org,I'm very impressed with the Construction Wire and the level of service received.Thank you,1
+Email,Lewis LLC,Highway fence,christina69@example.com,"Acceptable performance, but not exceptional.",0
+Email,Christensen-Dunn,Garden fence,aklein@example.org,"Okay product, meets basic requirements.",0
+Email,"Calhoun, Hamilton and Huerta",Construction Wire,tsilva@example.org,Here is very bad,-1
+Email,Marshall-Collins,Chicken fence,tinaharvey@example.org,"Definitely going to order again, thanks",1
+Email,"Johnson, Hall and Davis",Highway fence,taylor00@example.com,"The Highway fence is far below expectations, particularly in terms of its poor quality.",-1
+Email,Conner and Sons,Garden fence,chill@example.com,Sorry . It doesn't appeal to my preferences.,-1
+Email,Arnold Ltd,Chicken fence,brandon69@example.com,I encountered issues with the Chicken fence that need urgent attention.,-1
+Email,Patterson Inc,Construction Wire,robertmiller@example.net,I'm very impressed with the Construction Wire and the level of service received.Thank you,1
+Email,"Lester, Vazquez and Lee",Chicken fence,rmoore@example.com,"I am thrilled with the Chicken fence. It's truly remarkable, happy",1
+Email,"Tucker, Pearson and Logan",Construction Wire,allenjohn@example.org,"The Construction Wire is not good, and I expected better quality.",-1
+Email,"Silva, Vaughn and Stone",Garden fence,wallacemelissa@example.com,I'm dissatisfied with the Garden fence and the overall experience. ,-1
+Email,"Hall, Peterson and Sullivan",Highway fence,velezrose@example.net,The Highway fence is neither exceptional nor subpar in my experience.,0
+Email,"Singh, Davis and Ward",Construction Wire,mariamarshall@example.org,"The Construction Wire didn't meet my expectations, and I'm dissatisfied. Very low quality",-1
+Email,"Gibbs, Jennings and Jones",Construction Wire,jennifer32@example.org,"The Construction Wire is superb, and I commend the team for their efforts.",1
+Email,Bush PLC,Bird Fence,sean79@example.net,I feel indifferent about the Bird Fence and its features.,0
+Email,Smith-Day,Bird Fence,brenda17@example.net,"The Bird Fence is excellent, and I would highly recommend it. You are the best",1
+Email,"Harris, Sanders and Reed",Bird Fence,sclements@example.org,I feel indifferent about the Bird Fence and its features.,0
+Email,"Jones, Brown and Ramsey",Garden fence,gjackson@example.com,The Garden fence is outstanding! I am extremely satisfied with the Garden fence.,1
+Email,Mack-Molina,Chicken fence,ybennett@example.com,"Just five stars as always, happy about it",1
+Email,"Newman, Bradley and Cunningham",Bird Fence,leah64@example.com,"The Bird Fence is excellent, and I would highly recommend it. You are the best",1
+Email,Walker PLC,Chicken fence,bterrell@example.net,"It's a standard Chicken fence, and I don't have any particular praise or criticism.",0
+Email,Esparza Inc,Bird Fence,ehensley@example.net,I feel indifferent about the Bird Fence and its features.,0
+Email,Cruz-Williams,Bird Fence,mkelly@example.org,"The Bird Fence is far below expectations, particularly in terms of its poor quality.",-1
+Email,"Mason, Gomez and Burns",Construction Wire,larryharris@example.com,I dont like it,-1
+Email,"Barton, Santana and Gomez",Bird Fence,washingtondiana@example.org,I'm not happy with the Bird Fence and the level of service provided. I request a refund,-1
+Email,Hernandez-Roberts,Construction Wire,xmedina@example.com,I'm not happy with the Construction Wire and the level of service provided. I request a refund,-1
+Email,Ray and Sons,Chicken fence,amykelly@example.net,"The Chicken fence is average, and I don't have any strong opinions.",0
+Email,Smith-Hatfield,Construction Wire,stevennewman@example.net,The Construction Wire is neither exceptional nor subpar in my experience.,0
+Email,Williams Ltd,Bird Fence,ehenderson@example.org,Excellent Bird Fence thanks my friend,1
+Email,Walter-Powell,Construction Wire,wilsonbetty@example.com,"Okay product, meets basic requirements.",0
+Email,"Brown, Fernandez and Hill",Construction Wire,vshaw@example.com,Here is very bad,-1
+Email,Norris-Curry,Chicken fence,smithshawn@example.net,I'm neutral about the Chicken fence and its performance.,0
+Email,"Villa, Manning and Combs",Garden fence,gsmith@example.com,I am frustrated with the Garden fence. It fails to meet expectations in terms of Garden fence quality.,-1
+Email,Dougherty LLC,Bird Fence,zrobinson@example.org,"Okay product, meets basic requirements.",0
+Email,Jones Ltd,Bird Fence,mmccoy@example.com,The Bird Fence is fantastic.,1
+Email,Rodriguez LLC,Chicken fence,karenpena@example.com,"The Chicken fence is top-notch, and the Chicken fence exceeded my expectations.",1
+Email,Anderson-Smith,Garden fence,whitemary@example.com,I'm neutral about the Garden fence and its performance.,0
+Email,"Hamilton, Sutton and George",Construction Wire,canderson@example.org,The Construction Wire is okay; neither good nor bad.,0
+Email,"James, Pena and Garcia",Bird Fence,huertaadam@example.com,I am frustrated with the Bird Fence. It fails to meet expectations in terms of Bird Fence quality.,-1
+Email,Sims Ltd,Garden fence,joseph69@example.org,I regret my purchase of the Garden fence due to Garden fence problems.,-1
+Email,"Pacheco, Edwards and Strickland",Highway fence,danielramirez@example.com,"The Highway fence is far below expectations, particularly in terms of its poor quality.",-1
+Email,"Hall, Richardson and Lam",Chicken fence,adrianholder@example.com,I love the Chicken fence! It exceeds my expectations.,1
+Email,Torres and Sons,Construction Wire,ddiaz@example.com,"The Construction Wire is average, and I don't have any strong opinions.",0
+Email,"Adams, Winters and Spencer",Chicken fence,rodriguezann@example.com,The Chicken fence is outstanding! I am extremely satisfied with the Chicken fence.,1
+Email,"Houston, Myers and Valdez",Highway fence,danielgreen@example.com,I dont like it,-1
+Email,"Rodriguez, Dickerson and Casey",Garden fence,uhanson@example.com,I feel indifferent about the Garden fence and its features.,0
+Email,Miller Group,Bird Fence,xray@example.net,I'm not happy with the Bird Fence and the level of service provided. I request a refund,-1
+Email,"Conway, Kaiser and Smith",Construction Wire,fphillips@example.net,"Okay product, meets basic requirements.",0
+Email,Cruz-Mora,Highway fence,savannahwright@example.com,Excellent Highway fence thanks my friend,1
+Email,Nguyen and Sons,Chicken fence,davidstokes@example.com,Sorry . It doesn't appeal to my preferences.,-1
+Email,"Mcgee, David and Green",Bird Fence,scott59@example.org,"The Bird Fence is top-notch, and the Bird Fence exceeded my expectations.",1
+Email,Smith-Cook,Chicken fence,jessica77@example.org,"I am thrilled with the Chicken fence. It's truly remarkable, happy",1
+Email,Hall-Newton,Chicken fence,joshuacooke@example.net,"The Chicken fence is not good, and I expected better quality.",-1
+Email,Glenn-Wilkins,Construction Wire,davisharold@example.net,"The Construction Wire is top-notch, and the Construction Wire exceeded my expectations.",1
+Email,York-Tran,Highway fence,kimberly83@example.com,"The Highway fence is top-notch, and the Highway fence exceeded my expectations.",1
+Email,Mack-Davis,Bird Fence,moorejoseph@example.com,"Decent enough, but lacks a wow factor.",0
+Email,"Pugh, Gonzales and Snyder",Highway fence,zallen@example.net,"Okay product, meets basic requirements.",0
+Email,Stevens-Figueroa,Construction Wire,katelyn82@example.com,Thanls for the service,1
+Email,Cortez-Campbell,Chicken fence,gmccann@example.com,I regret my purchase of the Chicken fence due to Chicken fence problems.,-1
+Email,Yates PLC,Garden fence,brucelaura@example.com,"Just five stars as always, happy about it",1
+Email,Zhang Ltd,Highway fence,dawncastro@example.org,A lot of issues,-1
+Email,Ward-Taylor,Garden fence,stevenhill@example.net,I am frustrated with the Garden fence. It fails to meet expectations in terms of Garden fence quality.,-1
+Email,Jordan-David,Bird Fence,michelle24@example.com,I regret my purchase of the Bird Fence due to Bird Fence problems.,-1
+Email,"Jenkins, Tucker and White",Construction Wire,williamsvalerie@example.com,I encountered issues with the Construction Wire that need urgent attention.,-1
+Email,Figueroa PLC,Construction Wire,sydney74@example.com,"The Construction Wire is superb, and I commend the team for their efforts.",1
+Email,Chapman-Gonzales,Chicken fence,daniel55@example.net,"I am thrilled with the Chicken fence. It's truly remarkable, happy",1
+Email,"Ibarra, Crawford and Hernandez",Construction Wire,brandon16@example.org,"The Construction Wire is lacking, especially when it comes to its quality. Extremely dissatisfied.",-1
+Email,Stewart-Marshall,Bird Fence,cindywilson@example.org,"The Bird Fence is excellent, and I would highly recommend it. You are the best",1
+Email,"Garcia, Hamilton and Wyatt",Chicken fence,waltermartinez@example.org,The Chicken fence is okay; neither good nor bad.,0
+Email,May Inc,Chicken fence,brent76@example.net,I'm neutral about the Chicken fence and its performance.,0
+Email,"Williams, Berry and Davis",Construction Wire,snydernorma@example.com,I'm not happy with the Construction Wire and the level of service provided. I request a refund,-1
+Email,Crosby-Hutchinson,Highway fence,jsawyer@example.net,Excellent Highway fence thanks my friend,1
+Email,Simpson PLC,Highway fence,tinaramirez@example.com,I'm very impressed with the Highway fence and the level of service received.Thank you,1
+Email,"Allen, Petersen and Meyers",Chicken fence,barnettbonnie@example.com,I encountered issues with the Chicken fence that need urgent attention.,-1
+Email,Peters-Alexander,Bird Fence,georgegreen@example.org,The Bird Fence is neither exceptional nor subpar in my experience.,0
+Email,Howard-Gonzalez,Construction Wire,kaitlynlara@example.net,I have no strong feelings about the Construction Wire. It's just a Construction Wire.,0
+Email,Galvan Group,Construction Wire,christophercollins@example.com,The experience here is terrible. Issues with the Construction Wire are unacceptable.,-1
+Email,Barry Ltd,Garden fence,melissa90@example.org,I love the Garden fence! It exceeds my expectations.,1
+Email,"Martinez, Roberts and Dixon",Garden fence,richardsjasmine@example.org,"The Garden fence didn't meet my expectations, and I'm dissatisfied. Very low quality",-1
+Email,Montgomery LLC,Bird Fence,qrusso@example.com,"The Bird Fence is excellent, and I would highly recommend it. You are the best",1
+Email,Delgado-Morse,Bird Fence,shawna03@example.com,"Top quality received, love it",1
+Email,Hughes-Moon,Bird Fence,kayla85@example.net,I appreciate the Bird Fence and the exceptional service provided.,1
+Email,"Walsh, Reed and Pratt",Construction Wire,kenneth77@example.org,I appreciate the Construction Wire and the exceptional service provided.,1
+Email,"Stevens, Bradshaw and Hudson",Highway fence,johnsonsharon@example.net,The Highway fence is outstanding! I am extremely satisfied with the Highway fence.,1
+Email,"Pineda, Jimenez and Murray",Construction Wire,sbradley@example.com,Extremely dissatisfied with the Construction Wire and the overall experience.,-1
+Email,Lang-Gonzalez,Construction Wire,dennis04@example.org,"Okay product, meets basic requirements.",0
+Email,Brown-Medina,Bird Fence,joseph96@example.org,I dont like it,-1
+Email,"Bernard, Adams and Jones",Garden fence,deborahjohnson@example.org,This Garden fence is a disappointment. The quality is subpar.,-1
+Email,Clark-Brooks,Bird Fence,debraclayton@example.com,I'm very impressed with the Bird Fence and the level of service received.Thank you,1
+Email,"Mills, White and Rice",Chicken fence,theresatrevino@example.net,The Chicken fence is not up to the mark. Expected much better quality.,-1
+Email,"Williams, Jackson and Willis",Garden fence,amy91@example.com,The Garden fence is neither exceptional nor subpar in my experience.,0
+Email,"Nguyen, Christian and Hubbard",Chicken fence,sbanks@example.com,"Definitely going to order again, thanks",1
+Email,Munoz Inc,Construction Wire,coopervincent@example.com,I feel indifferent about the Construction Wire and its features.,0
+Email,Rios Inc,Chicken fence,zbyrd@example.net,"Okay product, meets basic requirements.",0
+Email,Guerrero-Hines,Construction Wire,mullinsnicole@example.org,Excellent Construction Wire thanks my friend,1
+Email,"Armstrong, Padilla and Simon",Garden fence,cuevasmichael@example.com,I dont like it,-1
+Email,Marshall-Howard,Garden fence,gregoryhaney@example.com,"It's fine, but I expected a bit more.",0
+Email,Stark Ltd,Bird Fence,smithdon@example.org,The Bird Fence is okay; neither good nor bad.,0
+Email,Mendoza PLC,Chicken fence,mckinneymadison@example.com,"Just five stars as always, happy about it",1
+Email,Dixon LLC,Chicken fence,timothy36@example.org,I appreciate the Chicken fence and the exceptional service provided.,1
+Email,Stewart-Rodriguez,Highway fence,whitney39@example.net,I'm not happy with the Highway fence and the level of service provided. I request a refund,-1
+Email,Lynch-Fisher,Chicken fence,tchambers@example.com,"It's a standard Chicken fence, and I don't have any particular praise or criticism.",0
+Email,Walton-Thompson,Highway fence,philipmorris@example.org,"Fairly average, nothing special to highlight.",0
+Email,Thornton Ltd,Bird Fence,laurajohnson@example.net,I have no strong feelings about the Bird Fence. It's just a Bird Fence.,0
+Email,Tran LLC,Chicken fence,fjones@example.org,"The Chicken fence is below expectations, particularly in terms of low qualityChicken fence.",-1
+Email,"Fletcher, Brooks and Castro",Garden fence,krystalpeterson@example.org,Regretting my purchase of the Garden fence. Issues with Garden fence are unacceptable.,-1
+Email,Garcia-Pitts,Chicken fence,grantchristina@example.net,I'm very impressed with the Chicken fence and the level of service received.Thank you,1
+Email,Fuller-Cantu,Construction Wire,eanderson@example.com,"Just five stars as always, happy about it",1
+Email,Olson-Salas,Bird Fence,dstokes@example.com,"Just five stars as always, happy about it",1
+Email,Campbell-Wade,Garden fence,virginiacrawford@example.com,"I am thrilled with the Garden fence. It's truly remarkable, happy",1
+Email,Chavez LLC,Chicken fence,patriciabennett@example.org,"Just five stars as always, happy about it",1
+Email,"Cruz, Cox and Robles",Bird Fence,christopher01@example.com,The Bird Fence is neither exceptional nor subpar in my experience.,0
+Email,"Sanchez, Haley and Navarro",Construction Wire,traviscarrillo@example.org,"Just five stars as always, happy about it",1
+Email,Richardson-Anderson,Chicken fence,leslie38@example.org,"Top quality received, love it",1
+Email,"Hernandez, Keith and Allen",Chicken fence,iclark@example.org,"The Chicken fence is not good, and I expected better quality.",-1
+Email,"Hoffman, Thomas and Taylor",Highway fence,stephen77@example.net,I love the Highway fence! It exceeds my expectations.,1
+Email,Griffin-Robinson,Construction Wire,hlynch@example.net,Sorry . It doesn't appeal to my preferences.,-1
+Email,"Powers, Perez and Contreras",Construction Wire,megan71@example.net,Here is very bad,-1
+Email,Carney Group,Chicken fence,melodywillis@example.com,Here is very bad,-1
+Email,Holmes-Cruz,Highway fence,pwilliams@example.org,Need a replacement for the Highway fence. Highly dissatisfied with the purchase.,-1
+Email,"Zimmerman, Richardson and Castro",Highway fence,garciadan@example.com,The Highway fence is okay; neither good nor bad.,0
+Email,"Orr, Wolfe and Stewart",Bird Fence,ageorge@example.org,I dont like it,-1
+Email,Evans LLC,Bird Fence,colleen49@example.org,Here is very bad,-1
+Email,Myers Ltd,Garden fence,james18@example.net,"The Garden fence is superb, and I commend the team for their efforts.",1
+Email,Brown Ltd,Construction Wire,rmurphy@example.com,The Construction Wire is okay; neither good nor bad.,0
+Email,King-Hoffman,Garden fence,calvin16@example.net,I'm delighted with the Garden fence and the overall experience.Thanks,1
+Email,Williams LLC,Bird Fence,kaitlynsilva@example.org,"It's a standard Bird Fence, and I don't have any particular praise or criticism.",0
+Email,"Elliott, Saunders and Allen",Construction Wire,williamsonrobert@example.com,I encountered issues with the Construction Wire that need urgent attention.,-1
+Email,"Gray, Cox and Lewis",Chicken fence,pcampbell@example.com,Here is very bad,-1
+Email,"Pope, Moon and Lane",Highway fence,vincent88@example.org,Encountered severe issues with the Highway fence. Urgently need a resolution.,-1
+Email,Brooks-Romero,Garden fence,victoria01@example.org,Extremely dissatisfied with the Garden fence and the overall experience.,-1
+Email,Walters LLC,Highway fence,andersonapril@example.net,"Top quality received, love it",1
+Email,"Miller, Walker and Decker",Garden fence,robert99@example.com,I'm neutral about the Garden fence and its performance.,0
+Email,Brown Inc,Highway fence,johncantrell@example.com,"Definitely going to order again, thanks",1
+Email,Castro Ltd,Highway fence,coreyjohnson@example.com,I neither like nor dislike the Highway fence; it's just a Highway fence.,0
+Email,"Wilson, Hart and Brooks",Highway fence,ryanclark@example.org,This Highway fence is a disappointment. The quality is subpar.,-1
+Email,Davila-Holmes,Bird Fence,jerryhorn@example.com,The Bird Fence is neither impressive nor disappointing in my opinion.,0
+Email,"Weaver, Sanders and Romero",Construction Wire,steven86@example.com,"Okay product, meets basic requirements.",0
+Email,"Cook, Bailey and Wilson",Bird Fence,briandawson@example.net,"Need replacement, dissatisfiedThe Bird Fence disappointed me, particularly in terms of Bird Fence.Dont suit me at all",-1
+Email,"Bates, Dixon and Bradley",Construction Wire,robertwelch@example.com,"The Construction Wire is excellent, and I would highly recommend it. You are the best",1
+Email,Lyons Inc,Chicken fence,evansronald@example.com,This Chicken fence is a disappointment. The quality is subpar.,-1
+Email,Mason-Rubio,Garden fence,patriciaweber@example.com,I'm not happy with the Garden fence and the level of service provided. I request a refund,-1
+Email,Smith Group,Garden fence,chavezjacqueline@example.org,"Fairly average, nothing special to highlight.",0
+Email,Murillo-Bright,Construction Wire,lorilopez@example.com,The Construction Wire is outstanding! I am extremely satisfied with the Construction Wire.,1
+Email,"Cooley, Adams and Stephens",Garden fence,wdominguez@example.org,The Garden fence is neither exceptional nor subpar in my experience.,0
+Email,Spencer LLC,Highway fence,kevin86@example.org,Extremely dissatisfied with the Highway fence and the overall experience.,-1
+Email,Dixon Inc,Construction Wire,travis54@example.org,I'm dissatisfied with the Construction Wire and the overall experience. ,-1
+Email,"Barnes, Vega and Thomas",Bird Fence,buchananhenry@example.net,"Just five stars as always, happy about it",1
+Email,Vang Group,Construction Wire,emathews@example.org,"Okay product, meets basic requirements.",0
+Email,Smith-Gonzalez,Chicken fence,emilywagner@example.net,The Chicken fence is fantastic.,1
+Email,Ross-Russell,Construction Wire,mistytaylor@example.net,The experience here is terrible. Issues with the Construction Wire are unacceptable.,-1
+Email,Smith Inc,Bird Fence,antonio29@example.org,The Bird Fence is neither exceptional nor subpar in my experience.,0
+Email,Smith-Collins,Garden fence,aflores@example.org,Experiencing a lot of issues with the Garden fence. Dissatisfied.,-1
+Email,"Goodwin, Thomas and Scott",Bird Fence,jenniferblackburn@example.com,Received a damaged Bird Fence. Requesting a refund immediately.,-1
+Email,"Murphy, Smith and Logan",Bird Fence,davidedward@example.net,"The Bird Fence is excellent, and I would highly recommend it. You are the best",1
+Email,Johnson-Jacobs,Construction Wire,yhogan@example.net,"Just five stars as always, happy about it",1
+Email,Bennett PLC,Bird Fence,anthony68@example.net,"Damaged here, asking refund",-1
+Email,"Garcia, Moody and Alexander",Construction Wire,joannafarley@example.org,The Construction Wire is okay; neither good nor bad.,0
+Email,Sanders and Sons,Construction Wire,deanvelazquez@example.com,"Acceptable performance, but not exceptional.",0
+Email,Smith-Ball,Chicken fence,llarsen@example.org,Received a damaged Chicken fence. Requesting a refund immediately.,-1
+Email,Oliver-Bridges,Bird Fence,fholmes@example.com,"I am thrilled with the Bird Fence. It's truly remarkable, happy",1
+Email,"Mejia, English and Moore",Chicken fence,angelicalittle@example.net,Here is very bad,-1
+Email,Torres PLC,Bird Fence,darrell85@example.org,The Bird Fence is not up to the mark. Expected much better quality.,-1
+Email,"Gibbs, Rivera and Hendrix",Chicken fence,gibsonlisa@example.com,Thanls for the service,1
+Email,Brown-Fischer,Highway fence,justin15@example.net,Thanls for the service,1
+Email,Rivas Group,Garden fence,kim01@example.org,"I am thrilled with the Garden fence. It's truly remarkable, happy",1
+Email,Johnson-Mueller,Chicken fence,bruce79@example.net,Here is very bad,-1
+Email,Carson-Porter,Construction Wire,steincrystal@example.org,The Construction Wire is okay; neither good nor bad.,0
+Email,Jones LLC,Highway fence,louisbrewer@example.org,I neither like nor dislike the Highway fence; it's just a Highway fence.,0
+Email,"Navarro, Howell and Salas",Construction Wire,hlewis@example.net,I'm indifferent to the Construction Wire and its functionalities.,0
+Email,Smith-Daniel,Garden fence,fcarter@example.org,I neither like nor dislike the Garden fence; it's just a Garden fence.,0
+Email,Macdonald and Sons,Construction Wire,nmeyer@example.net,"The Construction Wire is below expectations, particularly in terms of low qualityConstruction Wire.",-1
+Email,"Krause, Peterson and Ferguson",Chicken fence,rglass@example.org,I dont like it,-1
+Email,Wolfe-Tran,Garden fence,anthony29@example.org,I encountered issues with the Garden fence that need urgent attention.,-1
+Email,Hernandez-Williams,Construction Wire,joseph25@example.org,"Top quality received, love it",1
+Email,Baker-Smith,Chicken fence,brent64@example.org,The Chicken fence is fantastic.,1
+Email,"Freeman, Ford and Willis",Garden fence,pmedina@example.org,The Garden fence is outstanding! I am extremely satisfied with the Garden fence.,1
+Email,"Armstrong, Henry and Wise",Bird Fence,jeffreykaufman@example.net,"The Bird Fence is superb, and I commend the team for their efforts.",1
+Email,Jones-Hunt,Garden fence,david10@example.net,"The Garden fence is average, and I don't have any strong opinions.",0
+Email,"Jones, Robles and Mercer",Construction Wire,bruce56@example.org,"Average quality, meets basic expectations.",0
+Email,Walsh Group,Garden fence,theresaschultz@example.net,"The Garden fence is below expectations, particularly in terms of low qualityGarden fence.",-1
+Email,Huff-Sharp,Construction Wire,nicholasromero@example.net,"Sorry, Its just bad qualityThe Construction Wire needs improvement, especially in terms of Construction Wire.Quality not good",-1
+Email,Dean-Owens,Garden fence,hallclaudia@example.net,I appreciate the Garden fence and the exceptional service provided.,1
+Email,Soto PLC,Highway fence,jeffrey09@example.org,A lot of issues,-1
+Email,Williams-Vargas,Chicken fence,qthomas@example.com,"Average quality, meets basic expectations.",0
+Email,Singh Ltd,Construction Wire,nmeyers@example.com,"The Construction Wire is excellent, and I would highly recommend it. You are the best",1
+Email,Howard-Phillips,Highway fence,hollybowman@example.org,The Highway fence is not up to the mark. Expected much better quality.,-1
+Email,Charles Inc,Garden fence,halljoel@example.net,"The Garden fence didn't meet my expectations, and I'm dissatisfied. Very low quality",-1
+Email,Anderson Inc,Bird Fence,rthomas@example.org,The Bird Fence is okay; neither good nor bad.,0
+Email,Gonzalez Inc,Highway fence,carlos55@example.com,I'm delighted with the Highway fence and the overall experience.Thanks,1
+Email,"Ayala, Davis and Jones",Bird Fence,dsandoval@example.net,"I am thrilled with the Bird Fence. It's truly remarkable, happy",1
+Email,Smith-Ortiz,Highway fence,holmesalexander@example.org,I'm very impressed with the Highway fence and the level of service received.Thank you,1
+Email,"Owens, Fritz and Patrick",Garden fence,maryhamilton@example.com,I appreciate the Garden fence and the exceptional service provided.,1
+Email,"Moore, Fox and Schwartz",Garden fence,janice77@example.com,"Sorry, Its just bad qualityThe Garden fence needs improvement, especially in terms of Garden fence.Quality not good",-1
+Email,Figueroa-Cantu,Chicken fence,sarahtaylor@example.net,Sorry . It doesn't appeal to my preferences.,-1
+Email,Lawrence-Aguilar,Garden fence,micheleramirez@example.com,I neither like nor dislike the Garden fence; it's just a Garden fence.,0
+Email,"Castro, Kline and Rogers",Highway fence,travis94@example.org,"Damaged here, asking refund",-1
+Email,"Hudson, Rodriguez and Tapia",Garden fence,cranetheresa@example.net,I dont like it,-1
+Email,Williams-Perry,Garden fence,tmiller@example.net,"The Garden fence is below expectations, particularly in terms of low qualityGarden fence.",-1
+Email,Scott-Valencia,Bird Fence,daniel22@example.net,I appreciate the Bird Fence and the exceptional service provided.,1
+Email,Herrera-Frey,Bird Fence,david25@example.org,"Definitely going to order again, thanks",1
+Email,Murphy-Johnson,Garden fence,anthony59@example.net,"Average quality, meets basic expectations.",0
+Email,"Jones, Smith and Bailey",Highway fence,jennifersmith@example.com,A lot of issues,-1
+Email,Taylor Inc,Construction Wire,ohill@example.org,I appreciate the Construction Wire and the exceptional service provided.,1
+Email,Baker PLC,Bird Fence,daviscolin@example.com,The Bird Fence is neither exceptional nor subpar in my experience.,0
+Email,"Watson, Thompson and Martin",Garden fence,jay32@example.net,"It's fine, but I expected a bit more.",0
+Email,Richards-Torres,Construction Wire,powellwanda@example.net,The Construction Wire is neither impressive nor disappointing in my opinion.,0
+Email,Phillips-Cannon,Garden fence,chris47@example.org,The Garden fence is not up to the mark. Expected much better quality.,-1
+Email,Mcintyre-Gutierrez,Garden fence,butlermichael@example.net,I feel indifferent about the Garden fence and its features.,0
+Email,Robinson and Sons,Construction Wire,patriciaharris@example.net,Unhappy with both the Construction Wire and the service level. Requesting a refund.,-1
+Email,Woods-Nichols,Construction Wire,dmills@example.net,I love the Construction Wire! It exceeds my expectations.,1
+Email,Salinas LLC,Chicken fence,aphillips@example.com,I'm indifferent to the Chicken fence and its functionalities.,0
+Email,Newman and Sons,Chicken fence,kristi86@example.com,Thanls for the service,1
+Email,"Rojas, Griffith and White",Chicken fence,boydpamela@example.com,Here is very bad,-1
+Email,Fleming Inc,Highway fence,kimberly86@example.net,Received a damaged Highway fence. Requesting a refund immediately.,-1
+Email,Gallagher-Shaffer,Chicken fence,audrey65@example.org,"Top quality received, love it",1
+Email,"Floyd, Johnson and Small",Chicken fence,jonathancarr@example.net,Thanls for the service,1
+Email,Nixon-Durham,Garden fence,upowell@example.com,"Top quality received, love it",1
+Email,"Gay, Ward and Le",Construction Wire,johnwalker@example.net,"The Construction Wire is superb, and I commend the team for their efforts.",1
+Email,Scott PLC,Chicken fence,amandabooker@example.com,"Decent enough, but lacks a wow factor.",0
+Email,Santana-Roth,Chicken fence,karen82@example.net,The experience here is terrible. Issues with the Chicken fence are unacceptable.,-1
+Email,Wagner Group,Chicken fence,serranocasey@example.com,I'm very impressed with the Chicken fence and the level of service received.Thank you,1
+Email,Hines-Mann,Bird Fence,christopher64@example.org,"Acceptable performance, but not exceptional.",0
+Email,"Lee, Jordan and Thomas",Highway fence,jlee@example.org,I appreciate the Highway fence and the exceptional service provided.,1
+Email,Wright and Sons,Highway fence,colleenbradley@example.org,"The Highway fence is superb, and I commend the team for their efforts.",1
+Email,Robinson-Howard,Bird Fence,brianhayes@example.com,"Top quality received, love it",1
+Email,Flynn-Kelley,Garden fence,russellthomas@example.org,Received a damaged Garden fence. Requesting a refund immediately.,-1
+Email,Gutierrez-Garrison,Bird Fence,yshelton@example.org,"Definitely going to order again, thanks",1
+Email,"White, Walters and Schwartz",Bird Fence,shawnmiller@example.net,Excellent Bird Fence thanks my friend,1
+Email,Gallagher Inc,Chicken fence,coryblevins@example.org,The Chicken fence is fantastic.,1
+Email,Brown LLC,Garden fence,wilsonbrian@example.org,"Just five stars as always, happy about it",1
+Email,Knight LLC,Highway fence,orozcojohn@example.org,"The Highway fence is average, and I don't have any strong opinions.",0
+Email,Fisher-Chen,Highway fence,katrinatucker@example.org,I neither like nor dislike the Highway fence; it's just a Highway fence.,0
+Email,Zimmerman-Schwartz,Chicken fence,heather96@example.org,Regretting my purchase of the Chicken fence. Issues with Chicken fence are unacceptable.,-1
+Email,Nichols-Dawson,Chicken fence,jadkins@example.net,"Acceptable performance, but not exceptional.",0
+Email,"Anderson, Anderson and Black",Construction Wire,mortonkaren@example.org,I neither like nor dislike the Construction Wire; it's just a Construction Wire.,0
+Email,Beck Inc,Construction Wire,mikebenson@example.com,The Construction Wire is not up to the mark. Expected much better quality.,-1
+Email,"Johnson, Brown and Lee",Bird Fence,mullinsrebecca@example.net,"The Bird Fence is not good, and I expected better quality.",-1
+Email,"Peterson, Williams and Moran",Garden fence,williamcollins@example.org,"It's fine, but I expected a bit more.",0
+Email,Reeves-Kim,Bird Fence,perezronald@example.org,I'm delighted with the Bird Fence and the overall experience.Thanks,1
+Email,"Thomas, Pittman and Lee",Construction Wire,katherine87@example.org,Unhappy with both the Construction Wire and the service level. Requesting a refund.,-1
+Email,"Andrews, Moore and Gardner",Bird Fence,washingtonryan@example.net,"Damaged here, asking refund",-1
+Email,Stone-Foster,Chicken fence,rangelsamantha@example.org,"Acceptable performance, but not exceptional.",0
+Email,Saunders Ltd,Highway fence,hamiltonteresa@example.net,Here is very bad,-1
+Email,Martinez and Sons,Bird Fence,yvonne35@example.com,I appreciate the Bird Fence and the exceptional service provided.,1
+Email,Castro and Sons,Construction Wire,kathleen21@example.com,I appreciate the Construction Wire and the exceptional service provided.,1
+Email,"Coffey, Garcia and Reeves",Bird Fence,russellchristine@example.com,"The Bird Fence is superb, and I commend the team for their efforts.",1
+Email,Cole-Banks,Bird Fence,trevorweaver@example.net,The Bird Fence is neither exceptional nor subpar in my experience.,0
+Email,"Griffin, Walker and Davis",Construction Wire,owilliams@example.org,I appreciate the Construction Wire and the exceptional service provided.,1
+Email,Pruitt Ltd,Garden fence,melissakelley@example.com,The Garden fence is neither exceptional nor subpar in my experience.,0
+Email,Mcguire-Ballard,Construction Wire,lrandall@example.com,I am disappointed with the Construction Wire. It falls short in terms of Construction Wire.,-1
+Email,Thomas-Lloyd,Chicken fence,jeanne86@example.com,"It's a standard Chicken fence, and I don't have any particular praise or criticism.",0
+Email,"Cunningham, Noble and Young",Chicken fence,dstein@example.com,The Chicken fence is okay; neither good nor bad.,0
+Email,York-Burton,Highway fence,markselizabeth@example.org,Thanls for the service,1
+Email,Cunningham-Miller,Garden fence,laneveronica@example.com,"Top quality received, love it",1
+Email,"Jackson, Carroll and Jones",Chicken fence,kthomas@example.org,"The Chicken fence didn't meet my expectations, and I'm dissatisfied. Very low quality",-1
+Email,Pierce-Moreno,Construction Wire,matthew46@example.org,I feel indifferent about the Construction Wire and its features.,0
+Email,Lewis PLC,Bird Fence,bradley34@example.org,"The Bird Fence is top-notch, and the Bird Fence exceeded my expectations.",1
+Email,Griffin and Sons,Chicken fence,tnguyen@example.org,I am frustrated with the Chicken fence. It fails to meet expectations in terms of Chicken fence quality.,-1
+Email,Simon-Oneal,Highway fence,jenna37@example.org,The Highway fence is neither impressive nor disappointing in my opinion.,0
+Email,"Sosa, Walker and Ferguson",Bird Fence,angela25@example.org,A lot of issues,-1
+Email,Trujillo-Conley,Construction Wire,spencercheryl@example.org,"Top quality received, love it",1
+Email,Zimmerman LLC,Garden fence,haleysalas@example.com,Need a replacement for the Garden fence. Highly dissatisfied with the purchase.,-1
